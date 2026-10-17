@@ -4,11 +4,11 @@ Firmware für [MSP430](TAE%20Adapter%20Hardware.md "TAE Adapter Hardware") im [T
 
 ## Funktion
 
-Noch keine Beschreibung vorhanden. Siehe source code. Thread zum Gerät im Forum: <http://bettyhacks.com/forum/index.php?topic=159.0>
+Noch keine Beschreibung vorhanden. Siehe source code. Thread zum Gerät im Forum: [TAE Adapter](../forum/topics/0159-tae-adapter.md)
 
 ## Flashen
 
-- JTAG Adapter: <http://bettyhacks.com/forum/index.php?topic=182.0>
+- JTAG Adapter: [TAE Adapter - Programmieradapter für MSP430](../forum/topics/0182-tae-adapter-programmieradapter-fuer-msp430.md)
 
 ---
 

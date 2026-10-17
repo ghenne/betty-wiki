@@ -54,7 +54,7 @@ Aktuell verwendet wird die Version 20060606. Diese steht [hier](http://www.siwaw
 - In der Datei Makefile.local die Pfade anpassen, wenn nicht nach C:\\ entpackt wurde. Kein abschließender Schrägstrich!
 - Die Datei C:\WinARM\arm-elf\lib\interwork\libgcc.a (320292 Byte)  
   ist durch die Datei ronetix-gnutools-arm-elf-4.1.1-linux.tar.bz2\ronetix-gnutools-arm-elf-4.1.1-linux.tar\usr\cross\arm-elf\lib\gcc\arm-elf\4.1.1\interwork\libgcc.a (323938 Byte)  
-  zu ersetzen. Die libgcc.a kann [hier](http://bettyhacks.com/forum/index.php?topic=106.msg891#msg891) als "7Z-Datei" oder "zip-Datei" bezogen werden.
+  zu ersetzen. Die libgcc.a kann [hier](../forum/topics/0106-fehler-boop-kompileren.md#msg891) als "7Z-Datei" oder "zip-Datei" bezogen werden.
 - Ggf. in C:\WinARM\utils\bin die Datei "sed_WinARM.exe" zu "sed.exe" umbenennen
 
 Inhalt der Datei Makefile.local:
@@ -77,6 +77,54 @@ Inhalt der Datei Makefile.local:
 **TOOLPREFIX = arm-elf-**  
 **LPCTOOL = lpctool.exe**  
 **\######################## EOF \##################################**
+
+<!-- forum-links:start -->
+## Forumsdiskussionen: Toolchain und Build
+
+Ergänzend zur Toolchain-Übersicht: konkrete Builds unter Linux, macOS und Windows (WinARM, Cygwin, CodeSourcery, Debian, arm-launchpad), Makefile-Anpassungen und typische Compiler-/Linkerfehler.
+
+### Toolchain für Mac OS X / Linux
+
+- [Toolchain für Mac OS X / Linux](../forum/topics/0261-toolchain-fuer-mac-os-x-linux.md) — Boop unter Mac OS X/Linux kompilieren und Toolchain bauen.
+
+### McBetty/Toolchain einrichten
+
+- [Toolchain](../forum/topics/0273-toolchain.md) — McBetty aus GitHub-Quellen mit WinARM bauen.
+
+### GCC 4.5.2 CodeSourcery: Alignment-Warnings
+
+- [Aktueller GCC 4.5.2 von CodeSourcery produziert Alignment Warnings](../forum/topics/0269-aktueller-gcc-4-5-2-von-codesourcery-produziert-alignment-wa.md) — GCC 4.5.2 von CodeSourcery: Alignment-Warnungen und newlibc/uClibc.
+
+### Debian Squeeze: passende Toolchain
+
+- [Betty erstanden (Juni 2014!!!) - Probleme mit Debian Squeeze und Toolchain](../forum/topics/1049-betty-erstanden-juni-2014-probleme-mit-debian-squeeze-und-to.md) — Boop aus aktuellen Quellen unter Debian Squeeze bauen.
+
+### arm-launchpad-Compiler
+
+- [Betty für arm-launchpad compiler](../forum/topics/1050-betty-fuer-arm-launchpad-compiler.md) — ARM-Launchpad-Compiler für Betty.
+
+### WinARM unter Windows 7 x64 / WinARM-Build
+
+- [Probleme beim kompilieren mit WinARM unter Windows 7 x64](../forum/topics/1046-probleme-beim-kompilieren-mit-winarm-unter-windows-7-x64.md) — WinARM unter Windows 7 x64 einrichten und libgcc.a ersetzen.
+- [Boop Kompilieren unter winarm](../forum/topics/0295-boop-kompilieren-unter-winarm.md) — Boop mit WinARM 20060606 kompilieren.
+
+### Boop kompilieren: Fehler und Compilerfehler
+
+- [Fehler - BOOP kompileren](../forum/topics/0106-fehler-boop-kompileren.md) — Typische Fehler beim Boop-Build.
+- [Compilerfehler](../forum/topics/0289-compilerfehler.md) — Compilerfehler beim Boop-Build.
+
+### undefined reference: strncpy/strncat/strnlen
+
+- [undefined reference to 'strncpy'/'strncat'/'strnlen'](../forum/topics/0227-undefined-reference-to-strncpy-strncat-strnlen.md) — Linkerfehler bei strncpy/strncat/strnlen.
+
+### Keil als alternative IDE
+
+- [Software für Betty mit Keil erstellen](../forum/topics/0109-software-fuer-betty-mit-keil-erstellen.md) — Betty-Software mit Keil erstellen.
+
+### Lokale Toolchain-Settings
+
+- [toolchains, lokale settings](../forum/topics/0075-toolchains-lokale-settings.md) — Boop und lpctool mit GCC 4.1.1 bauen, lokale Settings.
+<!-- forum-links:end -->
 
 ---
 

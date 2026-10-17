@@ -15,6 +15,16 @@ MAX1811 Laderegler LiIon
 
 Eine LED in der Ladestation wird dann den Ladezustand des Akkus anzeigen.
 
+<!-- forum-links:start -->
+## Forumsdiskussionen: Spannungsversorgung
+
+Spannungsversorgung und Stromverbrauch der Betty.
+
+### Spannungsversorgung
+
+- [Spannungsversorgung Betty](../forum/topics/0191-spannungsversorgung-betty.md) — Spannungsversorgung und Stromverbrauch.
+<!-- forum-links:end -->
+
 ---
 
 [Startseite](Main%20Page.md) · [Index](../index.md) · [Kategorien](../categories.md)

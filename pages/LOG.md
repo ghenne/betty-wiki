@@ -12247,6 +12247,16 @@ here is the log of the Update-Process, you can download it here: [www.grautier.c
     ################END################
     ###################################
 
+<!-- forum-links:start -->
+## Forumsdiskussionen: Bootlog
+
+Ergänzung zum Bootlog: Der Fall, dass er nur unter Windows 98 funktioniert.
+
+### Bootlog nur unter Windows 98
+
+- [Bootlog will nur unter WIN 98 ???](../forum/topics/0084-bootlog-will-nur-unter-win-98.md) — Bootlog funktioniert nur unter Windows 98.
+<!-- forum-links:end -->
+
 ---
 
 [Startseite](Main%20Page.md) · [Index](../index.md) · [Kategorien](../categories.md)

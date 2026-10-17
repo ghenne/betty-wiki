@@ -6,7 +6,7 @@ Es gibt eine Neuauflage des Simple Serial Interface als **V2**, welche das [LPCT
 
 BITTE BEACHTET DIE DISKUSSIONSSEITE. Bei diesem Interface fehlen Basisvorwiderstände für die Transistoren, ausserdem passt das Betty-Interface nicht mit der Pinleiste.
 
-Im \[[Forum](http://bettyhacks.com/forum)\] gibt es \[[Fotos](http://bettyhacks.com/forum/index.php?topic=108.msg828#msg828)\]
+Im \[[Forum](../forum)\] gibt es \[[Fotos](../forum/topics/0108-bilder-simple-serial-interface-v2.md#msg828)\]
 
   
 
@@ -74,6 +74,34 @@ Mein Dank geht an dakaos für die Liste von Conrad Bestellnummern.
 
   
 --[Alterego](Benutzer_Alterego.md "Benutzer:Alterego") 07:26, 9 November 2007 (CET)
+
+<!-- forum-links:start -->
+## Forumsdiskussionen: Adapter, Sniffing und VT-Datenstrom
+
+Ergänzungen zur seriellen Anbindung: TTL-Wandler, Handydatenkabel, TXD1- und Daten-Sniffing sowie die Übertragung per VT-Datenstrom.
+
+### Daten sniffen
+
+- [Daten Sniffen](../forum/topics/0225-daten-sniffen.md) — Datenverkehr mitschneiden und auswerten.
+
+### TTL-Wandler
+
+- [TTL-Wandler](../forum/topics/0029-ttl-wandler.md) — TTL-Pegelwandler für serielle Verbindungen.
+- [TTL-Wandler](../forum/topics/0022-ttl-wandler.md) — TTL-Wandler (kurzer Thread).
+
+### TXD1 sniffen / Datenmüll
+
+- [TXD1 sniffen! Datenmüll ?!](../forum/topics/0027-txd1-sniffen-datenmuell.md) — TXD1 mitschneiden und Datenmüll analysieren.
+
+### Handydatenkabel vs. Simple Serial Interface
+
+- [Was ist besser? Handykabel oder Simple Seriell Interface?](../forum/topics/0165-was-ist-besser-handykabel-oder-simple-seriell-interface.md) — Handydatenkabel oder Simple Serial Interface: Vergleich.
+- [Handydatenkabel und Betty Heaven](../forum/topics/0152-handydatenkabel-und-betty-heaven.md) — Handydatenkabel mit BettyHeaven nutzen.
+
+### VT-Datenstrom zur Datenübertragung
+
+- [VT Datenstrom zur Datenübertragung](../forum/topics/0082-vt-datenstrom-zur-datenuebertragung.md) — Datenübertragung über den SCART-Adapter per VT-Datenstrom.
+<!-- forum-links:end -->
 
 ---
 

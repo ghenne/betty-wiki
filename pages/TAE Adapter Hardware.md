@@ -27,8 +27,8 @@ Siehe [TAE Adapter](TAE%20Adapter.md "TAE Adapter")
 
 Enthält einen DSP und wird vermutlich nur als Modem benutzt. Siehe
 
-- <http://bettyhacks.com/forum/index.php?topic=159>
-- <http://bettyhacks.com/forum/index.php?topic=233>
+- [TAE Adapter](../forum/topics/0159-tae-adapter.md)
+- [PCD80718HL programmieren](../forum/topics/0233-pcd80718hl-programmieren.md)
 
 ### \[2\] M430F
 

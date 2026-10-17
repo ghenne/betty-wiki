@@ -83,6 +83,29 @@ Der Entwickler/Entwicklungsleiter von Betty (2003- Aufgabe 2007)
 - Anschlüsse: 1 x TAE Stecker, 1 x TAE Buchse
 - Spannungsversorgung: Über TAE Stecker
 
+<!-- forum-links:start -->
+## Forumsdiskussionen: Swisscom und Betty-TV-Aus
+
+Swisscom-Variante und Tastaturbelegung sowie die Abschaltung des interaktiven Betty-TV-Angebots und ihre Folgen.
+
+### Swisscom-Tastatur
+
+- [Swisscom: Tastatur (inkl die anderen 3 Beiträge)](../forum/topics/0202-swisscom-tastatur-inkl-die-anderen-3-beitraege.md) — Tastatur/Belegung der Swisscom-Variante.
+
+### Swisscom-Hardware
+
+- [Swisscom Betty](../forum/topics/0128-swisscom-betty.md) — Swisscom-Variante der Betty.
+- [Betty Swisscom läuft](../forum/topics/0205-betty-swisscom-laeuft.md) — Swisscom-Betty im Betrieb.
+
+### Betty-TV-Aus und Folgen
+
+- [Swisscom stellt interaktives Fernsehangebot (betty) wieder ein](../forum/topics/0069-swisscom-stellt-interaktives-fernsehangebot-betty-wieder-ein.md) — Abschaltung des interaktiven Betty-TV-Angebots.
+- [Aus für Betty TV auch in Deutschland](../forum/topics/0074-aus-fuer-betty-tv-auch-in-deutschland.md) — Aus für Betty TV auch in Deutschland.
+- [Betty-Firmware wird zum 31 Nov abgespeckt.](../forum/topics/0077-betty-firmware-wird-zum-31-nov-abgespeckt.md) — Abspeckung der Betty-Firmware zum 31. November.
+- [Geht Betty noch?](../forum/topics/0103-geht-betty-noch.md) — Geht Betty noch? Status nach der Abschaltung.
+- [Ein paar Infos zur Betty-TV](../forum/topics/0149-ein-paar-infos-zur-betty-tv.md) — Infos zur Betty-TV-Abschaltung.
+<!-- forum-links:end -->
+
 ---
 
 [Startseite](Main%20Page.md) · [Index](../index.md) · [Kategorien](../categories.md)

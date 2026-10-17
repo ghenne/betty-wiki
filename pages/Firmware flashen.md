@@ -12,7 +12,7 @@ Der Bootloader muss auf der Betty allerdings erst gestartet werden. Das passiert
 
 Die Adapter und Programmiersoftware können das teilweise automatisch über zwei Leitungen. Es geht aber auch manuell.
 
-Dieser [Thread](http://bettyhacks.com/forum/index.php?topic=104.0) enthält einige Tips zu Interface und Tools.
+Dieser [Thread](../forum/topics/0104-frage-zum-simple-serial-interface.md) enthält einige Tips zu Interface und Tools.
 
 ## Bootloader manuell starten
 
@@ -22,6 +22,30 @@ Dieser [Thread](http://bettyhacks.com/forum/index.php?topic=104.0) enthält eini
     EINT PIN wieder oeffnen
 
 Pin-Belegung der Betty hier: [Betty_Hardware](Betty%20Hardware.md "Betty Hardware")
+
+<!-- forum-links:start -->
+## Forumsdiskussionen: U-Boot, Update und Flashprobleme
+
+Ergänzungen zum Flashen: U-Boot als alternativer Bootloader, das Mitschneiden des Original-Updates, Probleme nach dem Boop-Flash und das Flashen des SCART-Adapters.
+
+### U-Boot als alternativer Bootloader
+
+- [Das U-Boot - Universal Bootloader](../forum/topics/0032-das-u-boot-universal-bootloader.md) — U-Boot als Universal-Bootloader und Eignung für den LPC2220.
+
+### Firmware-Update mitschneiden
+
+- [Mitschneiden des Updatevorgangs - allgemein](../forum/topics/0007-mitschneiden-des-updatevorgangs-allgemein.md) — Original-Firmware-Update mitschneiden/dumpen.
+
+### Boop-Flashprobleme
+
+- [Probleme beim boop flashen](../forum/topics/0178-probleme-beim-boop-flashen.md) — Probleme beim Boop-Flash.
+- [Boop geflasht, nichts geht ?](../forum/topics/0280-boop-geflasht-nichts-geht.md) — Nach dem Boop-Flash startet nichts: typische Ursachen und Abhilfe.
+
+### SCART-Adapter flashen (Fehler und Ablauf)
+
+- [Fehler beim Flashen des SCART-Adapters](../forum/topics/0186-fehler-beim-flashen-des-scart-adapters.md) — Fehler beim Flashen des SCART-Adapters mit BettyHeaven/Kombiinterface.
+- [Flashen des Scart Adapters ???  und einen guten Rutsch ins Jahr 2009 !!!](../forum/topics/0176-flashen-des-scart-adapters-und-einen-guten-rutsch-ins-jahr-2.md) — Flashen des SCART-Adapters: Ablauf und Stolperfallen.
+<!-- forum-links:end -->
 
 ---
 

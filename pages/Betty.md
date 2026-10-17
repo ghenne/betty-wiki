@@ -38,6 +38,30 @@ Sobald die Abdeckung auf ganzer Länge gelöst ist, kann das Innenleben mitsamt 
 
 Für die Übersichtlichkeit ausgelagert in [Betty Hardware](Betty%20Hardware.md "Betty Hardware").
 
+<!-- forum-links:start -->
+## Forumsdiskussionen: Einstieg, Ziele und Bezugsquellen
+
+Einordnung und Einstieg: Ziele und Nutzungsszenarien, Bezugsquellen (Pollin), Marktwert und Betrieb mit anderen Sendern.
+
+### Welches Ziel mit der Betty?
+
+- [Welches Ziel mit der Betty???](../forum/topics/0014-welches-ziel-mit-der-betty.md) — Grundsatzdiskussion zu Zielen und Nutzungsszenarien.
+
+### Betty, andere Sender?
+
+- [Betty, andere Sender?](../forum/topics/0056-betty-andere-sender.md) — Betty mit anderen Sendern/Quellen nutzen.
+
+### Bezugsquellen und Marktwert
+
+- [Bettys Wert](../forum/topics/0020-bettys-wert.md) — Marktwert und Preise für Bettys.
+- [Bettys bei Pollin](../forum/topics/0279-bettys-bei-pollin.md) — Bettys bei Pollin: Bezug und Erfahrungen.
+
+### Einstieg: Betty von Pollin, Software woher?
+
+- [Newby: Betty von Pollin, Software von wo?](../forum/topics/1051-newby-betty-von-pollin-software-von-wo.md) — Einstieg mit einer Pollin-Betty: welche Software, welche Toolchain.
+- [Bettys bei Pollin](../forum/topics/0279-bettys-bei-pollin.md) — Bettys bei Pollin: Bezug und Erfahrungen.
+<!-- forum-links:end -->
+
 ---
 
 [Startseite](Main%20Page.md) · [Index](../index.md) · [Kategorien](../categories.md)

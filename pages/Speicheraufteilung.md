@@ -103,6 +103,16 @@ Dieser Speicherbereich enhält 96h Register (0 .. 95h). Ein Register kann ein DW
 | ..       | ?         |
 | 95h      | ?         |
 
+<!-- forum-links:start -->
+## Forumsdiskussionen: freier Speicher in Boop
+
+Wie viel RAM und Flash in Boop für eigene Variablen und Programme frei bleibt.
+
+### Speicherplatz in Boop (RAM/Flash)
+
+- [Wieviel Speicher bleibt in Boop für weitere Variablen](../forum/topics/0266-wieviel-speicher-bleibt-in-boop-fuer-weitere-variablen.md) — Freien RAM/Flash in Boop für eigene Variablen und Programme ermitteln.
+<!-- forum-links:end -->
+
 ---
 
 [Startseite](Main%20Page.md) · [Index](../index.md) · [Kategorien](../categories.md)

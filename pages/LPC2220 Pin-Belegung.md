@@ -6,7 +6,7 @@ Für Funktionen in **Bold** wird die entsprechende Hardwarefunktion des Pin´s v
 
 Anregungen, Fehler und sonstiges bitte hier diskutieren:
 
-[\[http://bettyhacks.com/forum/index.php?topic=140.0](http://bettyhacks.com/forum/index.php?topic=140.0)\]
+[\[../forum/topics/0140-lpc2220-pin-belegung.md](../forum/topics/0140-lpc2220-pin-belegung.md)\]
 
 Danke pcsquirrel
 
@@ -1629,6 +1629,18 @@ Danke pcsquirrel
 |       | 112 | VDD(3V3)           | =   |      |     |          |              |
 |       | 119 | VDD(3V3)           | =   |      |     |          |              |
 |       | 14  | VDDA(3V3)          | =   |      |     |          |              |
+
+<!-- forum-links:start -->
+## Forumsdiskussionen: freie Pins und Erweiterungen
+
+Unbelegte IOs, freie GPIOs sowie SPI- und SD/MMC-Nutzung.
+
+### Freie Pins, GPIOs, SPI, SD/MMC
+
+- [Pinbelegung / unbelegte IOs?](../forum/topics/0122-pinbelegung-unbelegte-ios.md) — Pinbelegung und unbelegte IOs.
+- [erweiterung der betty hardware / freie GPIOs](../forum/topics/0278-erweiterung-der-betty-hardware-freie-gpios.md) — Freie GPIOs der Betty für Erweiterungen.
+- [Freie Pins, SPI, SD / MMC](../forum/topics/0246-freie-pins-spi-sd-mmc.md) — Freie Pins, SPI und SD/MMC.
+<!-- forum-links:end -->
 
 ---
 

@@ -26,6 +26,16 @@ Auf der Rückseite mittig unter dem Aufkleber befindet sich eine Schraube. Sobal
 
 [TAE Adapter Hardware](TAE%20Adapter%20Hardware.md "TAE Adapter Hardware")
 
+<!-- forum-links:start -->
+## Forumsdiskussionen: PCD80718HL
+
+Programmierung des PCD80718HL im Umfeld des TAE-Adapters.
+
+### PCD80718HL programmieren
+
+- [PCD80718HL programmieren](../forum/topics/0233-pcd80718hl-programmieren.md) — PCD80718HL programmieren.
+<!-- forum-links:end -->
+
 ---
 
 [Startseite](Main%20Page.md) · [Index](../index.md) · [Kategorien](../categories.md)

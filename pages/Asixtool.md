@@ -2,7 +2,7 @@
 
 Tool um den chip im [IP Adapter](IP%20Adapter.md "IP Adapter") zu lesen, loeschen und beschreiben.
 
-<http://bettyhacks.com/forum/index.php?topic=80.0>
+[asixtool](../forum/topics/0080-asixtool.md)
 
 <http://boopfirmware.svn.sourceforge.net/viewvc/boopfirmware/Asixtool/>
 

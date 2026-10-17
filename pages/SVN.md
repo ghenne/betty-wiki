@@ -27,6 +27,19 @@ Download (checkout) in ein Unterverzeichnis namens *boopfirmware*:
 
 - tba
 
+<!-- forum-links:start -->
+## Forumsdiskussionen: Quellcode und SVN
+
+Bezug des Boop-Quellcodes, SVN-Ausfall und neuer Server, aufgeräumtes Repository.
+
+### Boop-Quellcode und SVN-Zugang
+
+- [Boop Quellcode downloaden?](../forum/topics/0207-boop-quellcode-downloaden.md) — Boop-Quellcode beziehen (SVN).
+- [SVN Server Offline->Neuer Online](../forum/topics/0210-svn-server-offline-neuer-online.md) — SVN-Server-Ausfall und neuer Server.
+- [boop & lpctool nun im svn](../forum/topics/0064-boop-lpctool-nun-im-svn.md) — Boop und lpctool im SVN.
+- [boop svn - aufgeraeumt](../forum/topics/0083-boop-svn-aufgeraeumt.md) — Aufgeräumtes Boop-SVN.
+<!-- forum-links:end -->
+
 ---
 
 [Startseite](Main%20Page.md) · [Index](../index.md) · [Kategorien](../categories.md)

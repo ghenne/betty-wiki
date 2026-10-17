@@ -194,6 +194,18 @@ TA2</td>
 </tbody>
 </table>
 
+<!-- forum-links:start -->
+## Forumsdiskussionen: MSP430 über den TAE-Adapter
+
+Programmierung des MSP430 über den TAE-Adapter sowie Nutzen und Grenzen.
+
+### TAE-Adapter und MSP430-Programmierung
+
+- [TAE Adapter - Programmieradapter für MSP430](../forum/topics/0182-tae-adapter-programmieradapter-fuer-msp430.md) — TAE-Adapter als MSP430-Programmer.
+- [Programmieren MSP430 lohnt sich das?](../forum/topics/0206-programmieren-msp430-lohnt-sich-das.md) — Programmieren des MSP430 über den TAE-Adapter: Nutzen und Grenzen.
+- [TAE und SER](../forum/topics/0208-tae-und-ser.md) — TAE und serielle Verbindung.
+<!-- forum-links:end -->
+
 ---
 
 [Startseite](Main%20Page.md) · [Index](../index.md) · [Kategorien](../categories.md)

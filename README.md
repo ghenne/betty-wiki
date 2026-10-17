@@ -26,7 +26,7 @@ Sie basiert auf einem ARM7tdmi Prozessor, hat 2MB Flash-Speicher, ein 160 x 128 
 
 Alles in allem eine wunderbare Plattform für wenig Geld für die unterschiedlichsten Verwendungszwecke. Aber seht selbst.... \<br\\ Hier finden Sie Infomation über die Betty-Fernbedienung und die zugehörige Hard- und Software.
 
-Besuchen Sie auch das [Bettyhacks-Forum](http://www.bettyhacks.com/forum) und den [Chat](pages/Chat.md "Chat")
+Besuchen Sie auch das [Gesamtforum](forum/index.md) und den [Chat](pages/Chat.md "Chat")
 
 <table data-cellpadding="10">
 <colgroup>
@@ -121,4 +121,4 @@ Besuchen Sie auch das [Bettyhacks-Forum](http://www.bettyhacks.com/forum) und de
 
 ---
 
-[Seitenindex](index.md) · [Kategorien](categories.md)
+[Seitenindex](index.md) · [Kategorien](categories.md) · [Gesamtforum](forum/index.md)

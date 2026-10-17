@@ -72,6 +72,17 @@ Wenn mit dem Programm im Scart-Adapter über die UART-Schnittstelle kommuniziert
     sw4 egal
     sw5 1-2 (PC TxD steuert Device Rx)
 
+<!-- forum-links:start -->
+## Forumsdiskussionen: Platine und Schaltplan
+
+Platine, Schaltplan und Aufbau des Kombiinterfaces.
+
+### Kombiinterface: Platine und Schaltplan
+
+- [Kombiinterface Schaltplan](../forum/topics/0248-kombiinterface-schaltplan.md) — Schaltplan des Kombiinterfaces.
+- [Kombiinterface Platine](../forum/topics/0125-kombiinterface-platine.md) — Platine des Kombiinterfaces.
+<!-- forum-links:end -->
+
 ---
 
 [Startseite](Main%20Page.md) · [Index](../index.md) · [Kategorien](../categories.md)

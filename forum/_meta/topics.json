@@ -1,0 +1,3044 @@
+{
+  "topics": [
+    {
+      "topic_id": 2,
+      "title": "Welcome",
+      "board": "News",
+      "board_id": 1,
+      "posts": 1,
+      "authors": [
+        "asgard"
+      ],
+      "first_post": "28. July 2007, 19:19",
+      "last_post": "28. July 2007, 19:19",
+      "file": "0002-welcome.md"
+    },
+    {
+      "topic_id": 3,
+      "title": "Wichtige Links !!!",
+      "board": "Sonstiges",
+      "board_id": 7,
+      "posts": 5,
+      "authors": [
+        "Robbi5",
+        "chaospir8",
+        "eme",
+        "theborg"
+      ],
+      "first_post": "28. Jul 2007, 19:58",
+      "last_post": "09. Apr 2008, 10:23",
+      "file": "0003-wichtige-links.md"
+    },
+    {
+      "topic_id": 5,
+      "title": "Wiki",
+      "board": "Sonstiges",
+      "board_id": 7,
+      "posts": 13,
+      "authors": [
+        "Kay",
+        "Spessi",
+        "TonyMahony",
+        "alterego",
+        "asgard",
+        "theborg"
+      ],
+      "first_post": "29. Jul 2007, 08:00",
+      "last_post": "11. Nov 2007, 09:26",
+      "file": "0005-wiki.md"
+    },
+    {
+      "topic_id": 7,
+      "title": "Mitschneiden des Updatevorgangs - allgemein",
+      "board": "Software",
+      "board_id": 6,
+      "posts": 15,
+      "authors": [
+        "MrFX",
+        "Zimi",
+        "asgard",
+        "theborg",
+        "vSaAmTp"
+      ],
+      "first_post": "29. Jul 2007, 16:41",
+      "last_post": "05. Aug 2007, 12:45",
+      "file": "0007-mitschneiden-des-updatevorgangs-allgemein.md"
+    },
+    {
+      "topic_id": 11,
+      "title": "Mal hallo sagen...",
+      "board": "Allgemeines",
+      "board_id": 8,
+      "posts": 16,
+      "authors": [
+        "DocKugelfisch",
+        "Megabug",
+        "Robbi5",
+        "Spessi",
+        "alterego",
+        "asgard",
+        "chaospir8",
+        "cheristi",
+        "edison",
+        "meinbier",
+        "minipilot",
+        "pasquale5682",
+        "theborg",
+        "vSaAmTp"
+      ],
+      "first_post": "01. Aug 2007, 10:48",
+      "last_post": "02. Okt 2007, 13:58",
+      "file": "0011-mal-hallo-sagen.md"
+    },
+    {
+      "topic_id": 13,
+      "title": "NXP ISP (nachbau)",
+      "board": "Hardware",
+      "board_id": 5,
+      "posts": 8,
+      "authors": [
+        "cheristi",
+        "theborg",
+        "vSaAmTp"
+      ],
+      "first_post": "01. Aug 2007, 21:12",
+      "last_post": "10. Aug 2007, 19:16",
+      "file": "0013-nxp-isp-nachbau.md"
+    },
+    {
+      "topic_id": 14,
+      "title": "Welches Ziel mit der Betty???",
+      "board": "Sonstiges",
+      "board_id": 9,
+      "posts": 31,
+      "authors": [
+        "DocKugelfisch",
+        "Kay",
+        "Megabug",
+        "Robbi5",
+        "Telekatz",
+        "TonyMahony",
+        "Zimi",
+        "asgard",
+        "chaospir8",
+        "edison",
+        "klitzer",
+        "meinbier",
+        "minipilot",
+        "netguy",
+        "pasquale5682",
+        "theborg",
+        "vSaAmTp"
+      ],
+      "first_post": "02. Aug 2007, 10:24",
+      "last_post": "21. Mär 2008, 17:00",
+      "file": "0014-welches-ziel-mit-der-betty.md"
+    },
+    {
+      "topic_id": 15,
+      "title": "Bettyhack Logo",
+      "board": "Sonstiges",
+      "board_id": 9,
+      "posts": 8,
+      "authors": [
+        "Robbi5",
+        "asgard",
+        "cheristi",
+        "vSaAmTp"
+      ],
+      "first_post": "02. Aug 2007, 10:30",
+      "last_post": "03. Aug 2007, 07:11",
+      "file": "0015-bettyhack-logo.md"
+    },
+    {
+      "topic_id": 16,
+      "title": "Logo-Contest",
+      "board": "Sonstiges",
+      "board_id": 9,
+      "posts": 30,
+      "authors": [
+        "ByteNapper",
+        "Kaesebroetchen",
+        "Megabug",
+        "Michaelzek",
+        "Robbi5",
+        "Spessi",
+        "Zimi",
+        "asgard",
+        "cheristi",
+        "damaltor",
+        "kackhart",
+        "minipilot",
+        "nordi",
+        "theborg",
+        "vSaAmTp"
+      ],
+      "first_post": "02. August 2007, 10:46",
+      "last_post": "11. Dez 2014, 20:47",
+      "file": "0016-logo-contest.md"
+    },
+    {
+      "topic_id": 17,
+      "title": "Logo-Contest",
+      "board": "News",
+      "board_id": 1,
+      "posts": 1,
+      "authors": [
+        "asgard"
+      ],
+      "first_post": "02. Aug 2007, 10:48",
+      "last_post": "02. Aug 2007, 10:48",
+      "file": "0017-logo-contest.md"
+    },
+    {
+      "topic_id": 18,
+      "title": "hackdabetty",
+      "board": "Hardware",
+      "board_id": 5,
+      "posts": 35,
+      "authors": [
+        "Colibri",
+        "Spessi",
+        "alterego",
+        "cheristi",
+        "eme",
+        "kackhart",
+        "netguy",
+        "theborg"
+      ],
+      "first_post": "02. Aug 2007, 11:59",
+      "last_post": "27. Mär 2008, 10:15",
+      "file": "0018-hackdabetty.md"
+    },
+    {
+      "topic_id": 19,
+      "title": "Log auslesen. (Was muss ich tun?)",
+      "board": "Software",
+      "board_id": 6,
+      "posts": 11,
+      "authors": [
+        "DocKugelfisch",
+        "Robbi5",
+        "Spessi",
+        "asgard",
+        "netguy",
+        "theborg"
+      ],
+      "first_post": "03. Aug 2007, 10:34",
+      "last_post": "06. Okt 2007, 14:52",
+      "file": "0019-log-auslesen-was-muss-ich-tun.md"
+    },
+    {
+      "topic_id": 20,
+      "title": "Bettys Wert",
+      "board": "Sonstiges",
+      "board_id": 9,
+      "posts": 4,
+      "authors": [
+        "Zimi",
+        "cheristi",
+        "vSaAmTp"
+      ],
+      "first_post": "03. Aug 2007, 13:33",
+      "last_post": "04. Aug 2007, 01:13",
+      "file": "0020-bettys-wert.md"
+    },
+    {
+      "topic_id": 21,
+      "title": "Zeitgleiche Fragen",
+      "board": "Sonstiges",
+      "board_id": 7,
+      "posts": 5,
+      "authors": [
+        "Zimi",
+        "cheristi",
+        "theborg"
+      ],
+      "first_post": "03. Aug 2007, 16:13",
+      "last_post": "12. Aug 2007, 22:23",
+      "file": "0021-zeitgleiche-fragen.md"
+    },
+    {
+      "topic_id": 22,
+      "title": "TTL-Wandler",
+      "board": "Sonstiges",
+      "board_id": 7,
+      "posts": 1,
+      "authors": [
+        "Spessi"
+      ],
+      "first_post": "03. Aug 2007, 18:48",
+      "last_post": "03. Aug 2007, 18:48",
+      "file": "0022-ttl-wandler.md"
+    },
+    {
+      "topic_id": 23,
+      "title": "Chat",
+      "board": "Allgemeines",
+      "board_id": 8,
+      "posts": 1,
+      "authors": [
+        "Spessi"
+      ],
+      "first_post": "03. Aug 2007, 20:06",
+      "last_post": "03. Aug 2007, 20:06",
+      "file": "0023-chat.md"
+    },
+    {
+      "topic_id": 27,
+      "title": "TXD1 sniffen! Datenmüll ?!",
+      "board": "Hardware",
+      "board_id": 5,
+      "posts": 3,
+      "authors": [
+        "Megabug",
+        "theborg"
+      ],
+      "first_post": "06. Aug 2007, 19:26",
+      "last_post": "12. Aug 2007, 19:46",
+      "file": "0027-txd1-sniffen-datenmuell.md"
+    },
+    {
+      "topic_id": 29,
+      "title": "TTL-Wandler",
+      "board": "Hardware",
+      "board_id": 5,
+      "posts": 33,
+      "authors": [
+        "Gentoo07",
+        "Megabug",
+        "Phönix",
+        "Spessi",
+        "TonyMahony",
+        "alterego",
+        "asgard",
+        "theborg",
+        "vSaAmTp"
+      ],
+      "first_post": "08. Aug 2007, 15:46",
+      "last_post": "12. Nov 2007, 23:31",
+      "file": "0029-ttl-wandler.md"
+    },
+    {
+      "topic_id": 32,
+      "title": "Das U-Boot - Universal Bootloader",
+      "board": "Software",
+      "board_id": 6,
+      "posts": 2,
+      "authors": [
+        "Spessi",
+        "theborg"
+      ],
+      "first_post": "13. Aug 2007, 13:21",
+      "last_post": "13. Aug 2007, 18:49",
+      "file": "0032-das-u-boot-universal-bootloader.md"
+    },
+    {
+      "topic_id": 33,
+      "title": "Betty-Heaven.exe / Betty-Dumps.zip",
+      "board": "Software",
+      "board_id": 6,
+      "posts": 15,
+      "authors": [
+        "Colibri",
+        "asgard",
+        "fG",
+        "kackhart",
+        "netguy",
+        "theborg"
+      ],
+      "first_post": "13. Aug 2007, 16:59",
+      "last_post": "03. Okt 2007, 20:46",
+      "file": "0033-betty-heaven-exe-betty-dumps-zip.md"
+    },
+    {
+      "topic_id": 35,
+      "title": "Betty, TAE, Scart",
+      "board": "Software",
+      "board_id": 6,
+      "posts": 2,
+      "authors": [
+        "asgard",
+        "theborg"
+      ],
+      "first_post": "20. Aug 2007, 13:31",
+      "last_post": "20. Aug 2007, 17:27",
+      "file": "0035-betty-tae-scart.md"
+    },
+    {
+      "topic_id": 36,
+      "title": "betty initialisierung",
+      "board": "Software",
+      "board_id": 6,
+      "posts": 4,
+      "authors": [
+        "Colibri",
+        "netguy"
+      ],
+      "first_post": "22. Aug 2007, 22:29",
+      "last_post": "23. Aug 2007, 18:31",
+      "file": "0036-betty-initialisierung.md"
+    },
+    {
+      "topic_id": 41,
+      "title": "boop - communicate with betty - by netguy",
+      "board": "Software",
+      "board_id": 6,
+      "posts": 17,
+      "authors": [
+        "Robbi5",
+        "Spessi",
+        "Telekatz",
+        "alterego",
+        "kackhart",
+        "netguy",
+        "theborg"
+      ],
+      "first_post": "30. Aug 2007, 03:24",
+      "last_post": "24. Jul 2008, 20:10",
+      "file": "0041-boop-communicate-with-betty-by-netguy.md"
+    },
+    {
+      "topic_id": 45,
+      "title": "Frage zum Betty Serial Log",
+      "board": "Software",
+      "board_id": 6,
+      "posts": 2,
+      "authors": [
+        "alterego"
+      ],
+      "first_post": "04. Sep 2007, 05:47",
+      "last_post": "04. Sep 2007, 18:19",
+      "file": "0045-frage-zum-betty-serial-log.md"
+    },
+    {
+      "topic_id": 46,
+      "title": "registereinstellungen fuer baudraten",
+      "board": "Software",
+      "board_id": 6,
+      "posts": 1,
+      "authors": [
+        "netguy"
+      ],
+      "first_post": "04. Sep 2007, 17:05",
+      "last_post": "04. Sep 2007, 17:05",
+      "file": "0046-registereinstellungen-fuer-baudraten.md"
+    },
+    {
+      "topic_id": 49,
+      "title": "Bettyheaven",
+      "board": "Software",
+      "board_id": 6,
+      "posts": 2,
+      "authors": [
+        "alterego",
+        "asgard"
+      ],
+      "first_post": "05. Sep 2007, 19:16",
+      "last_post": "06. Sep 2007, 00:43",
+      "file": "0049-bettyheaven.md"
+    },
+    {
+      "topic_id": 51,
+      "title": "lcd treiber chip",
+      "board": "Hardware",
+      "board_id": 5,
+      "posts": 6,
+      "authors": [
+        "asgard",
+        "minipilot",
+        "netguy"
+      ],
+      "first_post": "06. September 2007, 15:52",
+      "last_post": "07. September 2007, 21:06",
+      "file": "0051-lcd-treiber-chip.md"
+    },
+    {
+      "topic_id": 53,
+      "title": "Betty Hardwareauflistung",
+      "board": "Hardware",
+      "board_id": 5,
+      "posts": 6,
+      "authors": [
+        "Spessi",
+        "Telekatz",
+        "bettyuser",
+        "starshiner"
+      ],
+      "first_post": "08. Sep 2007, 23:01",
+      "last_post": "30. Apr 2008, 21:33",
+      "file": "0053-betty-hardwareauflistung.md"
+    },
+    {
+      "topic_id": 54,
+      "title": "lpctool - schneller upload",
+      "board": "Software",
+      "board_id": 6,
+      "posts": 32,
+      "authors": [
+        "Megabug",
+        "MrFX",
+        "Ronin",
+        "eme",
+        "localhosthack0r",
+        "netguy",
+        "pcsquirrel",
+        "theborg"
+      ],
+      "first_post": "10. Sep 2007, 20:22",
+      "last_post": "10. Jul 2008, 14:05",
+      "file": "0054-lpctool-schneller-upload.md"
+    },
+    {
+      "topic_id": 55,
+      "title": "LAN Adapter",
+      "board": "Hardware",
+      "board_id": 5,
+      "posts": 30,
+      "authors": [
+        "ByteNapper",
+        "Kay",
+        "Megabug",
+        "Robbi5",
+        "Telekatz",
+        "alterego",
+        "asgard",
+        "buh",
+        "eme",
+        "klitzer",
+        "minipilot",
+        "netguy",
+        "nordi",
+        "pasquale5682",
+        "pkneo",
+        "theborg",
+        "vSaAmTp"
+      ],
+      "first_post": "14. Sep 2007, 08:28",
+      "last_post": "17. Nov 2007, 21:11",
+      "file": "0055-lan-adapter.md"
+    },
+    {
+      "topic_id": 56,
+      "title": "Betty, andere Sender?",
+      "board": "Sonstiges",
+      "board_id": 9,
+      "posts": 7,
+      "authors": [
+        "netguy",
+        "pasquale5682"
+      ],
+      "first_post": "30. Sep 2007, 08:00",
+      "last_post": "04. Okt 2007, 21:16",
+      "file": "0056-betty-andere-sender.md"
+    },
+    {
+      "topic_id": 63,
+      "title": "Bettys zu verschenken",
+      "board": "Sonstiges",
+      "board_id": 7,
+      "posts": 7,
+      "authors": [
+        "Bettyverschenker",
+        "Phönix",
+        "asgard",
+        "netguy"
+      ],
+      "first_post": "04. Okt 2007, 13:17",
+      "last_post": "06. Okt 2007, 12:36",
+      "file": "0063-bettys-zu-verschenken.md"
+    },
+    {
+      "topic_id": 64,
+      "title": "boop & lpctool nun im svn",
+      "board": "Software",
+      "board_id": 6,
+      "posts": 1,
+      "authors": [
+        "netguy"
+      ],
+      "first_post": "06. Okt 2007, 00:31",
+      "last_post": "06. Okt 2007, 00:31",
+      "file": "0064-boop-lpctool-nun-im-svn.md"
+    },
+    {
+      "topic_id": 65,
+      "title": "boop, infrarot, etc ...",
+      "board": "Software",
+      "board_id": 6,
+      "posts": 19,
+      "authors": [
+        "Colibri",
+        "KiLLERHOLiC",
+        "Megabug",
+        "alterego",
+        "asgard",
+        "eme",
+        "netguy",
+        "starshiner"
+      ],
+      "first_post": "07. Okt 2007, 00:24",
+      "last_post": "25. Nov 2007, 17:01",
+      "file": "0065-boop-infrarot-etc.md"
+    },
+    {
+      "topic_id": 67,
+      "title": "Noob",
+      "board": "Hardware",
+      "board_id": 5,
+      "posts": 2,
+      "authors": [
+        "dakaos",
+        "jabba2k5"
+      ],
+      "first_post": "25. October 2007, 14:25",
+      "last_post": "25. October 2007, 15:12",
+      "file": "0067-noob.md"
+    },
+    {
+      "topic_id": 68,
+      "title": "Was kann man mit betty alles machen???",
+      "board": "Software",
+      "board_id": 6,
+      "posts": 15,
+      "authors": [
+        "Kay",
+        "Megabug",
+        "alterego",
+        "asgard",
+        "dakaos",
+        "netguy",
+        "nooobi",
+        "theborg"
+      ],
+      "first_post": "25. October 2007, 22:16",
+      "last_post": "",
+      "file": "0068-was-kann-man-mit-betty-alles-machen.md"
+    },
+    {
+      "topic_id": 69,
+      "title": "Swisscom stellt interaktives Fernsehangebot (betty) wieder ein",
+      "board": "Sonstiges",
+      "board_id": 7,
+      "posts": 15,
+      "authors": [
+        "BettyBoy",
+        "TonyMahony",
+        "chaospir8",
+        "dakaos",
+        "klitzer",
+        "kuhbaert",
+        "netguy",
+        "starshiner"
+      ],
+      "first_post": "04. Nov 2007, 18:37",
+      "last_post": "16. Nov 2007, 15:00",
+      "file": "0069-swisscom-stellt-interaktives-fernsehangebot-betty-wieder-ein.md"
+    },
+    {
+      "topic_id": 70,
+      "title": "neue firmware",
+      "board": "Software",
+      "board_id": 6,
+      "posts": 5,
+      "authors": [
+        "Megabug",
+        "asgard",
+        "eme",
+        "netguy"
+      ],
+      "first_post": "10. Nov 2007, 23:45",
+      "last_post": "14. Nov 2007, 19:04",
+      "file": "0070-neue-firmware.md"
+    },
+    {
+      "topic_id": 71,
+      "title": "Wiki - UPDATE!",
+      "board": "News",
+      "board_id": 1,
+      "posts": 1,
+      "authors": [
+        "asgard"
+      ],
+      "first_post": "11. November 2007, 11:38",
+      "last_post": "11. November 2007, 11:38",
+      "file": "0071-wiki-update.md"
+    },
+    {
+      "topic_id": 74,
+      "title": "Aus für Betty TV auch in Deutschland",
+      "board": "Sonstiges",
+      "board_id": 7,
+      "posts": 3,
+      "authors": [
+        "chaospir8",
+        "eme"
+      ],
+      "first_post": "14. Nov 2007, 18:16",
+      "last_post": "14. Nov 2007, 23:46",
+      "file": "0074-aus-fuer-betty-tv-auch-in-deutschland.md"
+    },
+    {
+      "topic_id": 75,
+      "title": "toolchains, lokale settings",
+      "board": "Software",
+      "board_id": 6,
+      "posts": 1,
+      "authors": [
+        "netguy"
+      ],
+      "first_post": "15. Nov 2007, 06:47",
+      "last_post": "15. Nov 2007, 06:47",
+      "file": "0075-toolchains-lokale-settings.md"
+    },
+    {
+      "topic_id": 77,
+      "title": "Betty-Firmware wird zum 31 Nov abgespeckt.",
+      "board": "Sonstiges",
+      "board_id": 7,
+      "posts": 3,
+      "authors": [
+        "Robbi5",
+        "Spessi"
+      ],
+      "first_post": "19. Nov 2007, 17:42",
+      "last_post": "19. Nov 2007, 17:53",
+      "file": "0077-betty-firmware-wird-zum-31-nov-abgespeckt.md"
+    },
+    {
+      "topic_id": 78,
+      "title": "Wiki-Style // User-CSS",
+      "board": "Allgemeines",
+      "board_id": 8,
+      "posts": 5,
+      "authors": [
+        "D.Poics",
+        "Kay",
+        "Robbi5",
+        "alterego",
+        "asgard"
+      ],
+      "first_post": "23. Nov 2007, 20:20",
+      "last_post": "24. Okt 2009, 00:58",
+      "file": "0078-wiki-style-user-css.md"
+    },
+    {
+      "topic_id": 80,
+      "title": "asixtool",
+      "board": "Software",
+      "board_id": 6,
+      "posts": 5,
+      "authors": [
+        "BillX",
+        "Telekatz",
+        "asgard",
+        "netguy"
+      ],
+      "first_post": "28. Nov 2007, 20:49",
+      "last_post": "27. Dez 2009, 01:15",
+      "file": "0080-asixtool.md"
+    },
+    {
+      "topic_id": 82,
+      "title": "VT Datenstrom zur Datenübertragung",
+      "board": "Software",
+      "board_id": 6,
+      "posts": 15,
+      "authors": [
+        "KiLLERHOLiC",
+        "Megabug",
+        "Telekatz",
+        "Zimi",
+        "alterego",
+        "asgard",
+        "netguy"
+      ],
+      "first_post": "04. Dez 2007, 21:55",
+      "last_post": "09. Dez 2007, 23:10",
+      "file": "0082-vt-datenstrom-zur-datenuebertragung.md"
+    },
+    {
+      "topic_id": 83,
+      "title": "boop svn - aufgeraeumt",
+      "board": "Software",
+      "board_id": 6,
+      "posts": 2,
+      "authors": [
+        "fred",
+        "netguy"
+      ],
+      "first_post": "06. Dez 2007, 12:00",
+      "last_post": "15. Jan 2008, 13:12",
+      "file": "0083-boop-svn-aufgeraeumt.md"
+    },
+    {
+      "topic_id": 84,
+      "title": "Bootlog will nur unter WIN 98 ???",
+      "board": "Hardware",
+      "board_id": 5,
+      "posts": 9,
+      "authors": [
+        "Megabug",
+        "asgard",
+        "mcgyver100",
+        "netguy"
+      ],
+      "first_post": "07. Dez 2007, 09:13",
+      "last_post": "10. Dez 2007, 13:58",
+      "file": "0084-bootlog-will-nur-unter-win-98.md"
+    },
+    {
+      "topic_id": 86,
+      "title": "Funksteckdosen",
+      "board": "Software",
+      "board_id": 6,
+      "posts": 11,
+      "authors": [
+        "Megabug",
+        "MrFX",
+        "asgard",
+        "eme",
+        "mcgyver100",
+        "minipilot",
+        "netguy",
+        "tmuehlha"
+      ],
+      "first_post": "10. Dez 2007, 08:50",
+      "last_post": "20. Feb 2012, 22:46",
+      "file": "0086-funksteckdosen.md"
+    },
+    {
+      "topic_id": 87,
+      "title": "LCDproc",
+      "board": "Software",
+      "board_id": 6,
+      "posts": 1,
+      "authors": [
+        "taco"
+      ],
+      "first_post": "10. Dez 2007, 12:27",
+      "last_post": "10. Dez 2007, 12:27",
+      "file": "0087-lcdproc.md"
+    },
+    {
+      "topic_id": 88,
+      "title": "Betty + Scart <-> PC Adapter - Wer bastelt gegen Bezahlung?",
+      "board": "Sonstiges",
+      "board_id": 9,
+      "posts": 1,
+      "authors": [
+        "gforums"
+      ],
+      "first_post": "14. Dez 2007, 16:30",
+      "last_post": "14. Dez 2007, 16:30",
+      "file": "0088-betty-scart-pc-adapter-wer-bastelt-gegen-bezahlung.md"
+    },
+    {
+      "topic_id": 89,
+      "title": "Neue Software von Betty-tv",
+      "board": "Software",
+      "board_id": 6,
+      "posts": 6,
+      "authors": [
+        "Phönix",
+        "Telekatz",
+        "minipilot",
+        "peter_silie"
+      ],
+      "first_post": "17. Februar 2008, 19:58",
+      "last_post": "14. März 2008, 11:59",
+      "file": "0089-neue-software-von-betty-tv.md"
+    },
+    {
+      "topic_id": 90,
+      "title": "Software Reset Betty-TV",
+      "board": "Software",
+      "board_id": 6,
+      "posts": 1,
+      "authors": [
+        "Garfield"
+      ],
+      "first_post": "15. Dez 2007, 09:00",
+      "last_post": "15. Dez 2007, 09:00",
+      "file": "0090-software-reset-betty-tv.md"
+    },
+    {
+      "topic_id": 92,
+      "title": "Frohe Weihnachten und einen guten Start ins Jahr 2008",
+      "board": "News",
+      "board_id": 1,
+      "posts": 2,
+      "authors": [
+        "asgard",
+        "theborg"
+      ],
+      "first_post": "22. Dezember 2007, 13:20",
+      "last_post": "22. Dezember 2007, 23:41",
+      "file": "0092-frohe-weihnachten-und-einen-guten-start-ins-jahr-2008.md"
+    },
+    {
+      "topic_id": 93,
+      "title": "Kommunikation zur Betty mit RFM12?",
+      "board": "Hardware",
+      "board_id": 5,
+      "posts": 3,
+      "authors": [
+        "Spessi",
+        "Telekatz",
+        "edison"
+      ],
+      "first_post": "24. Dez 2007, 15:33",
+      "last_post": "01. Okt 2010, 19:58",
+      "file": "0093-kommunikation-zur-betty-mit-rfm12.md"
+    },
+    {
+      "topic_id": 94,
+      "title": "Eure Schreibtische",
+      "board": "Sonstiges",
+      "board_id": 9,
+      "posts": 9,
+      "authors": [
+        "DerSchrauber",
+        "Kay",
+        "Megabug",
+        "Nafedire73",
+        "Spessi",
+        "Telekatz",
+        "dakaos",
+        "master_of_mod",
+        "theborg"
+      ],
+      "first_post": "02. Jan 2008, 00:41",
+      "last_post": "21. Okt 2009, 18:16",
+      "file": "0094-eure-schreibtische.md"
+    },
+    {
+      "topic_id": 95,
+      "title": "S.N.A.P.-Protokoll für die Funkübertragung?",
+      "board": "Software",
+      "board_id": 6,
+      "posts": 3,
+      "authors": [
+        "MrFX",
+        "netguy"
+      ],
+      "first_post": "03. Jan 2008, 13:28",
+      "last_post": "03. Jan 2008, 14:43",
+      "file": "0095-s-n-a-p-protokoll-fuer-die-funkuebertragung.md"
+    },
+    {
+      "topic_id": 97,
+      "title": "Hab betty.tv mal angeschrieben...",
+      "board": "Sonstiges",
+      "board_id": 7,
+      "posts": 5,
+      "authors": [
+        "BillX",
+        "ahnungsloserdepp",
+        "asgard",
+        "tomschl",
+        "vSaAmTp"
+      ],
+      "first_post": "04. Jan 2008, 11:26",
+      "last_post": "04. Aug 2008, 16:23",
+      "file": "0097-hab-betty-tv-mal-angeschrieben.md"
+    },
+    {
+      "topic_id": 100,
+      "title": "Na, wer von euch wars?",
+      "board": "Sonstiges",
+      "board_id": 7,
+      "posts": 3,
+      "authors": [
+        "Kay",
+        "Spessi",
+        "netguy"
+      ],
+      "first_post": "11. Jan 2008, 17:13",
+      "last_post": "13. Jan 2008, 17:10",
+      "file": "0100-na-wer-von-euch-wars.md"
+    },
+    {
+      "topic_id": 103,
+      "title": "Geht Betty noch?",
+      "board": "Sonstiges",
+      "board_id": 9,
+      "posts": 3,
+      "authors": [
+        "Demon",
+        "MrFX",
+        "Spessi"
+      ],
+      "first_post": "10. Feb 2008, 12:54",
+      "last_post": "12. Feb 2008, 08:57",
+      "file": "0103-geht-betty-noch.md"
+    },
+    {
+      "topic_id": 104,
+      "title": "Frage zum Simple Serial Interface",
+      "board": "Hardware",
+      "board_id": 5,
+      "posts": 30,
+      "authors": [
+        "Gentoo07",
+        "Telekatz",
+        "bustler",
+        "famos",
+        "heugabel",
+        "peter_silie",
+        "thuxnder"
+      ],
+      "first_post": "16. Februar 2008, 15:01",
+      "last_post": "26. Apr 2008, 02:46",
+      "file": "0104-frage-zum-simple-serial-interface.md"
+    },
+    {
+      "topic_id": 106,
+      "title": "Fehler - BOOP kompileren",
+      "board": "Software",
+      "board_id": 6,
+      "posts": 17,
+      "authors": [
+        "4ou",
+        "MrFX",
+        "Telekatz",
+        "asgard",
+        "bingo600",
+        "elrost",
+        "eme",
+        "fred",
+        "gunnar",
+        "pcsquirrel"
+      ],
+      "first_post": "26. Feb 2008, 16:38",
+      "last_post": "02. Jan 2015, 22:33",
+      "file": "0106-fehler-boop-kompileren.md"
+    },
+    {
+      "topic_id": 107,
+      "title": "Installation Betty Heaven",
+      "board": "Sonstiges",
+      "board_id": 7,
+      "posts": 5,
+      "authors": [
+        "MrFX",
+        "Telekatz",
+        "edison",
+        "wynn"
+      ],
+      "first_post": "28. Feb 2008, 10:10",
+      "last_post": "31. Mär 2008, 21:36",
+      "file": "0107-installation-betty-heaven.md"
+    },
+    {
+      "topic_id": 108,
+      "title": "[Bilder] Simple Serial Interface V2",
+      "board": "Hardware",
+      "board_id": 5,
+      "posts": 5,
+      "authors": [
+        "Telekatz",
+        "dakine",
+        "edison",
+        "j_doe",
+        "theborg"
+      ],
+      "first_post": "03. März 2008, 15:21",
+      "last_post": "26. März 2008, 22:08",
+      "file": "0108-bilder-simple-serial-interface-v2.md"
+    },
+    {
+      "topic_id": 109,
+      "title": "Software für Betty mit Keil erstellen",
+      "board": "Software",
+      "board_id": 6,
+      "posts": 1,
+      "authors": [
+        "famos"
+      ],
+      "first_post": "09. Mär 2008, 16:36",
+      "last_post": "09. Mär 2008, 16:36",
+      "file": "0109-software-fuer-betty-mit-keil-erstellen.md"
+    },
+    {
+      "topic_id": 110,
+      "title": "Fernbedienungscodes",
+      "board": "Software",
+      "board_id": 6,
+      "posts": 13,
+      "authors": [
+        "Gonzo",
+        "Telekatz",
+        "eme",
+        "vdrtux",
+        "waldy",
+        "wynn"
+      ],
+      "first_post": "10. Mär 2008, 13:11",
+      "last_post": "04. Okt 2010, 11:45",
+      "file": "0110-fernbedienungscodes.md"
+    },
+    {
+      "topic_id": 111,
+      "title": "Wer würd mir meine Betty flashen ?",
+      "board": "Sonstiges",
+      "board_id": 9,
+      "posts": 17,
+      "authors": [
+        "Agitheking",
+        "Gentoo07",
+        "MrFX",
+        "aiscom",
+        "dvbhannes",
+        "eme",
+        "sombrero"
+      ],
+      "first_post": "10. Mär 2008, 17:59",
+      "last_post": "19. Sep 2008, 16:37",
+      "file": "0111-wer-wuerd-mir-meine-betty-flashen.md"
+    },
+    {
+      "topic_id": 113,
+      "title": "wie schauts aus ?",
+      "board": "Software",
+      "board_id": 6,
+      "posts": 6,
+      "authors": [
+        "Telekatz",
+        "dakaos",
+        "eme",
+        "famos",
+        "pcsquirrel"
+      ],
+      "first_post": "13. Mär 2008, 01:54",
+      "last_post": "25. Mär 2008, 19:49",
+      "file": "0113-wie-schauts-aus.md"
+    },
+    {
+      "topic_id": 114,
+      "title": "Kommunikation Scartadapter",
+      "board": "Software",
+      "board_id": 6,
+      "posts": 3,
+      "authors": [
+        "Telekatz",
+        "edison"
+      ],
+      "first_post": "21. Mär 2008, 17:09",
+      "last_post": "21. Mär 2008, 22:46",
+      "file": "0114-kommunikation-scartadapter.md"
+    },
+    {
+      "topic_id": 119,
+      "title": "LCD-Anschluß",
+      "board": "Hardware",
+      "board_id": 5,
+      "posts": 3,
+      "authors": [
+        "eme",
+        "theborg"
+      ],
+      "first_post": "25. Mär 2008, 14:26",
+      "last_post": "30. Mär 2008, 11:08",
+      "file": "0119-lcd-anschluss.md"
+    },
+    {
+      "topic_id": 121,
+      "title": "Transceiver CC1100 Möglichkeiten",
+      "board": "Hardware",
+      "board_id": 5,
+      "posts": 1,
+      "authors": [
+        "eme"
+      ],
+      "first_post": "26. Mär 2008, 17:06",
+      "last_post": "26. Mär 2008, 17:06",
+      "file": "0121-transceiver-cc1100-moeglichkeiten.md"
+    },
+    {
+      "topic_id": 122,
+      "title": "Pinbelegung / unbelegte IOs?",
+      "board": "Hardware",
+      "board_id": 5,
+      "posts": 15,
+      "authors": [
+        "Gentoo07",
+        "Telekatz",
+        "eme",
+        "famos",
+        "pcsquirrel"
+      ],
+      "first_post": "27. Mär 2008, 09:55",
+      "last_post": "31. Mär 2008, 21:12",
+      "file": "0122-pinbelegung-unbelegte-ios.md"
+    },
+    {
+      "topic_id": 123,
+      "title": "Sicherheit/Backup WIKI",
+      "board": "Sonstiges",
+      "board_id": 7,
+      "posts": 5,
+      "authors": [
+        "asgard",
+        "eme",
+        "pcsquirrel"
+      ],
+      "first_post": "27. Mär 2008, 15:40",
+      "last_post": "01. Sep 2008, 16:14",
+      "file": "0123-sicherheit-backup-wiki.md"
+    },
+    {
+      "topic_id": 125,
+      "title": "Kombiinterface Platine",
+      "board": "Hardware",
+      "board_id": 5,
+      "posts": 4,
+      "authors": [
+        "Gonzo",
+        "mcfloppy"
+      ],
+      "first_post": "29. Mär 2008, 15:03",
+      "last_post": "26. Sep 2009, 17:07",
+      "file": "0125-kombiinterface-platine.md"
+    },
+    {
+      "topic_id": 127,
+      "title": "Sommerzeit!",
+      "board": "Sonstiges",
+      "board_id": 9,
+      "posts": 1,
+      "authors": [
+        "eme"
+      ],
+      "first_post": "30. Mär 2008, 11:12",
+      "last_post": "30. Mär 2008, 11:12",
+      "file": "0127-sommerzeit.md"
+    },
+    {
+      "topic_id": 128,
+      "title": "Swisscom Betty",
+      "board": "Hardware",
+      "board_id": 5,
+      "posts": 4,
+      "authors": [
+        "Gentoo07",
+        "famos"
+      ],
+      "first_post": "30. Mär 2008, 17:02",
+      "last_post": "31. Mär 2008, 20:32",
+      "file": "0128-swisscom-betty.md"
+    },
+    {
+      "topic_id": 134,
+      "title": "Bidirektionale Kommunikation mit PC",
+      "board": "Sonstiges",
+      "board_id": 7,
+      "posts": 7,
+      "authors": [
+        "Telekatz",
+        "bn",
+        "eme",
+        "markusk",
+        "thuxnder"
+      ],
+      "first_post": "07. Apr 2008, 10:14",
+      "last_post": "28. Feb 2009, 21:08",
+      "file": "0134-bidirektionale-kommunikation-mit-pc.md"
+    },
+    {
+      "topic_id": 140,
+      "title": "LPC2220 Pin-Belegung",
+      "board": "Hardware",
+      "board_id": 5,
+      "posts": 6,
+      "authors": [
+        "Gentoo07",
+        "famos",
+        "pcsquirrel"
+      ],
+      "first_post": "16. April 2008, 20:00",
+      "last_post": "13. Mai 2008, 20:28",
+      "file": "0140-lpc2220-pin-belegung.md"
+    },
+    {
+      "topic_id": 141,
+      "title": "Betty anlernen und Sagem DBox2 Code",
+      "board": "Software",
+      "board_id": 6,
+      "posts": 3,
+      "authors": [
+        "MB-Power",
+        "theborg"
+      ],
+      "first_post": "20. Apr 2008, 18:26",
+      "last_post": "30. Apr 2008, 07:05",
+      "file": "0141-betty-anlernen-und-sagem-dbox2-code.md"
+    },
+    {
+      "topic_id": 145,
+      "title": "RC6 Encoder",
+      "board": "Software",
+      "board_id": 6,
+      "posts": 5,
+      "authors": [
+        "Megabug",
+        "Telekatz",
+        "pcsquirrel"
+      ],
+      "first_post": "14. Mai 2008, 20:17",
+      "last_post": "16. Jun 2008, 14:14",
+      "file": "0145-rc6-encoder.md"
+    },
+    {
+      "topic_id": 146,
+      "title": "Bootloader defekt?",
+      "board": "Hardware",
+      "board_id": 5,
+      "posts": 2,
+      "authors": [
+        "Gentoo07",
+        "fussel_dlx"
+      ],
+      "first_post": "15. Mai 2008, 00:01",
+      "last_post": "15. Mai 2008, 19:06",
+      "file": "0146-bootloader-defekt.md"
+    },
+    {
+      "topic_id": 148,
+      "title": "Scart programmieren, ohne Kombi-Interface!!",
+      "board": "Software",
+      "board_id": 6,
+      "posts": 12,
+      "authors": [
+        "El_Barto",
+        "Gentoo07",
+        "MrFX",
+        "TEN",
+        "Telekatz",
+        "bettyuser",
+        "damaltor",
+        "eme",
+        "gunnar",
+        "netguy"
+      ],
+      "first_post": "05. Juni 2008, 22:16",
+      "last_post": "01. Februar 2010, 12:09",
+      "file": "0148-scart-programmieren-ohne-kombi-interface.md"
+    },
+    {
+      "topic_id": 149,
+      "title": "Ein paar Infos zur Betty-TV",
+      "board": "Sonstiges",
+      "board_id": 7,
+      "posts": 1,
+      "authors": [
+        "eme"
+      ],
+      "first_post": "07. Jun 2008, 19:42",
+      "last_post": "07. Jun 2008, 19:42",
+      "file": "0149-ein-paar-infos-zur-betty-tv.md"
+    },
+    {
+      "topic_id": 151,
+      "title": "Boop-Frage",
+      "board": "Software",
+      "board_id": 6,
+      "posts": 2,
+      "authors": [
+        "Gentoo07",
+        "temp12"
+      ],
+      "first_post": "28. Jun 2008, 14:23",
+      "last_post": "29. Jun 2008, 15:53",
+      "file": "0151-boop-frage.md"
+    },
+    {
+      "topic_id": 152,
+      "title": "Handydatenkabel und Betty Heaven",
+      "board": "Hardware",
+      "board_id": 5,
+      "posts": 7,
+      "authors": [
+        "Gentoo07",
+        "R-M-N",
+        "Trekinfo",
+        "nitpicker",
+        "teufel2k"
+      ],
+      "first_post": "30. Jun 2008, 19:56",
+      "last_post": "19. Feb 2009, 12:30",
+      "file": "0152-handydatenkabel-und-betty-heaven.md"
+    },
+    {
+      "topic_id": 154,
+      "title": "Aufspielen der neuen Software",
+      "board": "Hardware",
+      "board_id": 5,
+      "posts": 4,
+      "authors": [
+        "MrFX",
+        "ahnungsloserdepp",
+        "pupsi"
+      ],
+      "first_post": "04. Aug 2008, 16:18",
+      "last_post": "08. Nov 2008, 11:18",
+      "file": "0154-aufspielen-der-neuen-software.md"
+    },
+    {
+      "topic_id": 156,
+      "title": "Toggle-Bit RC-5 Encoder (Generic TV) in boop",
+      "board": "Software",
+      "board_id": 6,
+      "posts": 5,
+      "authors": [
+        "Telekatz",
+        "eme"
+      ],
+      "first_post": "19. Aug 2008, 21:13",
+      "last_post": "21. Aug 2008, 15:50",
+      "file": "0156-toggle-bit-rc-5-encoder-generic-tv-in-boop.md"
+    },
+    {
+      "topic_id": 159,
+      "title": "TAE Adapter",
+      "board": "Hardware",
+      "board_id": 5,
+      "posts": 18,
+      "authors": [
+        "Capt",
+        "JimBeam",
+        "Matschkeks",
+        "Telekatz",
+        "eme",
+        "famos",
+        "meinbier",
+        "pcsquirrel",
+        "phaidros"
+      ],
+      "first_post": "07. Sep 2008, 20:08",
+      "last_post": "02. Oktober 2010, 11:53",
+      "file": "0159-tae-adapter.md"
+    },
+    {
+      "topic_id": 160,
+      "title": "JTAG",
+      "board": "Software",
+      "board_id": 6,
+      "posts": 32,
+      "authors": [
+        "Astralix",
+        "Telekatz",
+        "famos",
+        "gunnar",
+        "jannis",
+        "temp12"
+      ],
+      "first_post": "25. Sep 2008, 13:44",
+      "last_post": "12. Feb 2011, 22:51",
+      "file": "0160-jtag.md"
+    },
+    {
+      "topic_id": 162,
+      "title": "Boop: Fernbedienung anlernen",
+      "board": "Software",
+      "board_id": 6,
+      "posts": 16,
+      "authors": [
+        "Hartmut",
+        "Megabug",
+        "Telekatz",
+        "edison",
+        "eme",
+        "loswillios",
+        "temp12"
+      ],
+      "first_post": "17. Okt 2008, 12:10",
+      "last_post": "21. Dez 2008, 18:04",
+      "file": "0162-boop-fernbedienung-anlernen.md"
+    },
+    {
+      "topic_id": 165,
+      "title": "Was ist besser? Handykabel oder Simple Seriell Interface?",
+      "board": "Hardware",
+      "board_id": 5,
+      "posts": 15,
+      "authors": [
+        "Gentoo07",
+        "TEN",
+        "edison",
+        "pupsi"
+      ],
+      "first_post": "01. Nov 2008, 16:09",
+      "last_post": "08. Nov 2008, 20:51",
+      "file": "0165-was-ist-besser-handykabel-oder-simple-seriell-interface.md"
+    },
+    {
+      "topic_id": 167,
+      "title": "Verkaufe Betty IP-Adapter",
+      "board": "Sonstiges",
+      "board_id": 9,
+      "posts": 3,
+      "authors": [
+        "Megabug",
+        "sevenup",
+        "theborg"
+      ],
+      "first_post": "16. Nov 2008, 15:10",
+      "last_post": "18. Nov 2008, 06:45",
+      "file": "0167-verkaufe-betty-ip-adapter.md"
+    },
+    {
+      "topic_id": 169,
+      "title": "LPCtool - setattr stage 1 failed",
+      "board": "Software",
+      "board_id": 6,
+      "posts": 2,
+      "authors": [
+        "Firewalker",
+        "famos"
+      ],
+      "first_post": "09. Dez 2008, 12:46",
+      "last_post": "13. Dez 2008, 17:57",
+      "file": "0169-lpctool-setattr-stage-1-failed.md"
+    },
+    {
+      "topic_id": 171,
+      "title": "Simple Seriell Interface zu Verkaufen",
+      "board": "Sonstiges",
+      "board_id": 9,
+      "posts": 2,
+      "authors": [
+        "pupsi",
+        "theborg"
+      ],
+      "first_post": "15. Dez 2008, 17:29",
+      "last_post": "17. Dez 2008, 01:30",
+      "file": "0171-simple-seriell-interface-zu-verkaufen.md"
+    },
+    {
+      "topic_id": 173,
+      "title": "Ich versteh nicht wieso mein Thread gesperrt wurde!!",
+      "board": "Allgemeines",
+      "board_id": 8,
+      "posts": 2,
+      "authors": [
+        "pupsi",
+        "theborg"
+      ],
+      "first_post": "21. Dez 2008, 23:51",
+      "last_post": "22. Dez 2008, 04:51",
+      "file": "0173-ich-versteh-nicht-wieso-mein-thread-gesperrt-wurde.md"
+    },
+    {
+      "topic_id": 175,
+      "title": "Simple Seriell Interface zu Verkaufen (zum 2. mal)",
+      "board": "Sonstiges",
+      "board_id": 9,
+      "posts": 1,
+      "authors": [
+        "pupsi"
+      ],
+      "first_post": "27. Dez 2008, 22:02",
+      "last_post": "27. Dez 2008, 22:02",
+      "file": "0175-simple-seriell-interface-zu-verkaufen-zum-2-mal.md"
+    },
+    {
+      "topic_id": 176,
+      "title": "Flashen des Scart Adapters ???  und einen guten Rutsch ins Jahr 2009 !!!",
+      "board": "Hardware",
+      "board_id": 5,
+      "posts": 14,
+      "authors": [
+        "Gentoo07",
+        "JimBeam",
+        "Megabug",
+        "MrFX",
+        "Telekatz",
+        "ino",
+        "phaidros"
+      ],
+      "first_post": "14. Februar 2009, 11:55",
+      "last_post": "02. Juni 2009, 19:57",
+      "file": "0176-flashen-des-scart-adapters-und-einen-guten-rutsch-ins-jahr-2.md"
+    },
+    {
+      "topic_id": 178,
+      "title": "Probleme beim boop flashen",
+      "board": "Software",
+      "board_id": 6,
+      "posts": 6,
+      "authors": [
+        "asgard",
+        "damaltor",
+        "ino",
+        "tobi"
+      ],
+      "first_post": "07. Jan 2009, 21:21",
+      "last_post": "20. Jan 2009, 23:03",
+      "file": "0178-probleme-beim-boop-flashen.md"
+    },
+    {
+      "topic_id": 179,
+      "title": "BMP-Logodateien Betty-Tauglich machen - neues tool",
+      "board": "Software",
+      "board_id": 6,
+      "posts": 13,
+      "authors": [
+        "DJTouch",
+        "El_Barto",
+        "JimBeam",
+        "LeoTheLoewe",
+        "Telekatz",
+        "asgard",
+        "bustler",
+        "damaltor",
+        "theborg"
+      ],
+      "first_post": "12. Jan 2009, 21:34",
+      "last_post": "20. Mai 2010, 13:44",
+      "file": "0179-bmp-logodateien-betty-tauglich-machen-neues-tool.md"
+    },
+    {
+      "topic_id": 180,
+      "title": "Betty-Heaven Problem: Keine Com-Ports",
+      "board": "Software",
+      "board_id": 6,
+      "posts": 4,
+      "authors": [
+        "Robin",
+        "damaltor"
+      ],
+      "first_post": "12. Jan 2009, 23:05",
+      "last_post": "12. Jan 2009, 23:45",
+      "file": "0180-betty-heaven-problem-keine-com-ports.md"
+    },
+    {
+      "topic_id": 181,
+      "title": "Diplomarbeit zu Sensornetzwerken. Hardware: 200 Bettys und boop",
+      "board": "Software",
+      "board_id": 6,
+      "posts": 12,
+      "authors": [
+        "MrFX",
+        "asgard",
+        "eme",
+        "pcsquirrel",
+        "safti"
+      ],
+      "first_post": "13. Jan 2009, 20:48",
+      "last_post": "16. Jan 2009, 10:50",
+      "file": "0181-diplomarbeit-zu-sensornetzwerken-hardware-200-bettys-und-boo.md"
+    },
+    {
+      "topic_id": 182,
+      "title": "TAE Adapter - Programmieradapter für MSP430",
+      "board": "Hardware",
+      "board_id": 5,
+      "posts": 11,
+      "authors": [
+        "MrFX",
+        "Telekatz",
+        "gerdi",
+        "mcfloppy",
+        "phaidros",
+        "skolapper"
+      ],
+      "first_post": "14. Jan 2009, 22:36",
+      "last_post": "11. Sep 2009, 19:02",
+      "file": "0182-tae-adapter-programmieradapter-fuer-msp430.md"
+    },
+    {
+      "topic_id": 183,
+      "title": "Link zum Wiki",
+      "board": "Sonstiges",
+      "board_id": 9,
+      "posts": 2,
+      "authors": [
+        "damaltor",
+        "eme"
+      ],
+      "first_post": "16. Jan 2009, 17:31",
+      "last_post": "17. Jan 2009, 19:15",
+      "file": "0183-link-zum-wiki.md"
+    },
+    {
+      "topic_id": 184,
+      "title": "betty als Fernbedienung aktivieren-------Dringend.......",
+      "board": "Sonstiges",
+      "board_id": 7,
+      "posts": 4,
+      "authors": [
+        "Trekinfo",
+        "asgard",
+        "damaltor",
+        "xaro500"
+      ],
+      "first_post": "19. Januar 2009, 20:08",
+      "last_post": "17. Februar 2009, 15:56",
+      "file": "0184-betty-als-fernbedienung-aktivieren-dringend.md"
+    },
+    {
+      "topic_id": 186,
+      "title": "Fehler beim Flashen des SCART-Adapters",
+      "board": "Software",
+      "board_id": 6,
+      "posts": 1,
+      "authors": [
+        "El_Barto"
+      ],
+      "first_post": "22. Jan 2009, 06:21",
+      "last_post": "22. Jan 2009, 06:21",
+      "file": "0186-fehler-beim-flashen-des-scart-adapters.md"
+    },
+    {
+      "topic_id": 187,
+      "title": "RAW-Codes auslesen/analysieren/in def-Datei einfügen",
+      "board": "Software",
+      "board_id": 6,
+      "posts": 13,
+      "authors": [
+        "El_Barto",
+        "Telekatz",
+        "damaltor",
+        "eme",
+        "pcsquirrel"
+      ],
+      "first_post": "22. Jan 2009, 06:51",
+      "last_post": "26. Jan 2009, 09:32",
+      "file": "0187-raw-codes-auslesen-analysieren-in-def-datei-einfuegen.md"
+    },
+    {
+      "topic_id": 189,
+      "title": "soft-reset nach dem flashen mit lpctool",
+      "board": "Software",
+      "board_id": 6,
+      "posts": 5,
+      "authors": [
+        "Ge0rG",
+        "Telekatz",
+        "eme"
+      ],
+      "first_post": "31. Jan 2009, 02:28",
+      "last_post": "07. Okt 2010, 14:37",
+      "file": "0189-soft-reset-nach-dem-flashen-mit-lpctool.md"
+    },
+    {
+      "topic_id": 190,
+      "title": "Kleine Unschönheit in infrared.c",
+      "board": "Software",
+      "board_id": 6,
+      "posts": 3,
+      "authors": [
+        "Ge0rG",
+        "JimBeam"
+      ],
+      "first_post": "05. Feb 2009, 22:33",
+      "last_post": "06. Feb 2009, 14:01",
+      "file": "0190-kleine-unschoenheit-in-infrared-c.md"
+    },
+    {
+      "topic_id": 191,
+      "title": "Spannungsversorgung Betty",
+      "board": "Hardware",
+      "board_id": 5,
+      "posts": 1,
+      "authors": [
+        "JimBeam"
+      ],
+      "first_post": "12. Feb 2009, 08:57",
+      "last_post": "12. Feb 2009, 08:57",
+      "file": "0191-spannungsversorgung-betty.md"
+    },
+    {
+      "topic_id": 192,
+      "title": "Stromverbrauch Betty",
+      "board": "Software",
+      "board_id": 6,
+      "posts": 1,
+      "authors": [
+        "CatBone"
+      ],
+      "first_post": "18. Feb 2009, 20:09",
+      "last_post": "18. Feb 2009, 20:09",
+      "file": "0192-stromverbrauch-betty.md"
+    },
+    {
+      "topic_id": 195,
+      "title": "Wer kann meine Betty (03.09. gekauft) auf 'nur Fernbedienung' programmieren?",
+      "board": "Sonstiges",
+      "board_id": 7,
+      "posts": 14,
+      "authors": [
+        "DCdust",
+        "Hansgehdu",
+        "MrFX",
+        "asgard",
+        "bvb2212",
+        "deadsoul",
+        "killepinsel",
+        "skydos"
+      ],
+      "first_post": "24. März 2009, 23:09",
+      "last_post": "05. Januar 2010, 00:03",
+      "file": "0195-wer-kann-meine-betty-03-09-gekauft-auf-nur-fernbedienung-pro.md"
+    },
+    {
+      "topic_id": 197,
+      "title": "Kleiner Fehler in der KI von TicTacToe",
+      "board": "Software",
+      "board_id": 6,
+      "posts": 1,
+      "authors": [
+        "Qnkel"
+      ],
+      "first_post": "17. Apr 2009, 20:05",
+      "last_post": "17. Apr 2009, 20:05",
+      "file": "0197-kleiner-fehler-in-der-ki-von-tictactoe.md"
+    },
+    {
+      "topic_id": 198,
+      "title": "Wie kann man helfen?",
+      "board": "Sonstiges",
+      "board_id": 7,
+      "posts": 2,
+      "authors": [
+        "Qnkel",
+        "gerdi"
+      ],
+      "first_post": "17. Apr 2009, 20:09",
+      "last_post": "18. Apr 2009, 12:04",
+      "file": "0198-wie-kann-man-helfen.md"
+    },
+    {
+      "topic_id": 202,
+      "title": "Swisscom: Tastatur (inkl die anderen 3 Beiträge)",
+      "board": "Software",
+      "board_id": 6,
+      "posts": 13,
+      "authors": [
+        "JimBeam",
+        "Telekatz",
+        "bn",
+        "famos",
+        "gerdi"
+      ],
+      "first_post": "02. Mai 2009, 00:24",
+      "last_post": "05. Mai 2009, 07:41",
+      "file": "0202-swisscom-tastatur-inkl-die-anderen-3-beitraege.md"
+    },
+    {
+      "topic_id": 205,
+      "title": "Betty Swisscom läuft",
+      "board": "Hardware",
+      "board_id": 5,
+      "posts": 9,
+      "authors": [
+        "AKtronik",
+        "Telekatz",
+        "gerdi"
+      ],
+      "first_post": "04. Mai 2009, 18:39",
+      "last_post": "05. Mai 2009, 10:38",
+      "file": "0205-betty-swisscom-laeuft.md"
+    },
+    {
+      "topic_id": 206,
+      "title": "Programmieren MSP430 lohnt sich das?",
+      "board": "Hardware",
+      "board_id": 5,
+      "posts": 5,
+      "authors": [
+        "D.Poics",
+        "El_Barto",
+        "Gonzo",
+        "gerdi"
+      ],
+      "first_post": "05. Mai 2009, 17:36",
+      "last_post": "15. Nov 2009, 14:04",
+      "file": "0206-programmieren-msp430-lohnt-sich-das.md"
+    },
+    {
+      "topic_id": 207,
+      "title": "Boop Quellcode downloaden?",
+      "board": "Software",
+      "board_id": 6,
+      "posts": 10,
+      "authors": [
+        "AKtronik",
+        "El_Barto",
+        "Telekatz",
+        "asgard",
+        "gerdi"
+      ],
+      "first_post": "06. Mai 2009, 11:33",
+      "last_post": "07. Mai 2009, 13:16",
+      "file": "0207-boop-quellcode-downloaden.md"
+    },
+    {
+      "topic_id": 208,
+      "title": "TAE und SER",
+      "board": "Hardware",
+      "board_id": 5,
+      "posts": 1,
+      "authors": [
+        "gerdi"
+      ],
+      "first_post": "08. Mai 2009, 19:03",
+      "last_post": "08. Mai 2009, 19:03",
+      "file": "0208-tae-und-ser.md"
+    },
+    {
+      "topic_id": 210,
+      "title": "SVN Server Offline->Neuer Online",
+      "board": "Software",
+      "board_id": 6,
+      "posts": 10,
+      "authors": [
+        "Telekatz",
+        "asgard",
+        "eme",
+        "gunnar"
+      ],
+      "first_post": "09. Jun 2009, 09:10",
+      "last_post": "16. Apr 2013, 21:33",
+      "file": "0210-svn-server-offline-neuer-online.md"
+    },
+    {
+      "topic_id": 214,
+      "title": "Betty für Harman Kardon Verstärker anlernern, ->klappt nicht!!!",
+      "board": "Sonstiges",
+      "board_id": 9,
+      "posts": 1,
+      "authors": [
+        "ottelo"
+      ],
+      "first_post": "02. Jul 2009, 20:06",
+      "last_post": "02. Jul 2009, 20:06",
+      "file": "0214-betty-fuer-harman-kardon-verstaerker-anlernern-klappt-nicht.md"
+    },
+    {
+      "topic_id": 215,
+      "title": "Source LCPTool und Beispielprogramm, das im Ram läuft",
+      "board": "Software",
+      "board_id": 6,
+      "posts": 11,
+      "authors": [
+        "Telekatz",
+        "asgard",
+        "gunnar"
+      ],
+      "first_post": "05. Juli 2009, 10:01",
+      "last_post": "06. Juli 2009, 21:48",
+      "file": "0215-source-lcptool-und-beispielprogramm-das-im-ram-laeuft.md"
+    },
+    {
+      "topic_id": 216,
+      "title": "Betty als LIRC Sender und EmpfängerI",
+      "board": "Hardware",
+      "board_id": 5,
+      "posts": 6,
+      "authors": [
+        "MrFX",
+        "famos",
+        "gerdi"
+      ],
+      "first_post": "06. Jul 2009, 12:25",
+      "last_post": "10. Jul 2009, 11:14",
+      "file": "0216-betty-als-lirc-sender-und-empfaengeri.md"
+    },
+    {
+      "topic_id": 217,
+      "title": "BETTYs abzugeben!",
+      "board": "News",
+      "board_id": 1,
+      "posts": 2,
+      "authors": [
+        "asgard"
+      ],
+      "first_post": "28. Juli 2009, 17:53",
+      "last_post": "18. November 2012, 13:42",
+      "file": "0217-bettys-abzugeben.md"
+    },
+    {
+      "topic_id": 218,
+      "title": "Betty als Funkfernbedienung",
+      "board": "Hardware",
+      "board_id": 5,
+      "posts": 2,
+      "authors": [
+        "Telekatz",
+        "meinbier"
+      ],
+      "first_post": "16. August 2009, 14:41",
+      "last_post": "17. August 2009, 10:51",
+      "file": "0218-betty-als-funkfernbedienung.md"
+    },
+    {
+      "topic_id": 219,
+      "title": "Wer programmiert meine beiden Bettys um",
+      "board": "Sonstiges",
+      "board_id": 7,
+      "posts": 4,
+      "authors": [
+        "ahnungsloserdepp",
+        "gunnar"
+      ],
+      "first_post": "25. Sep 2009, 11:03",
+      "last_post": "07. Dez 2009, 21:09",
+      "file": "0219-wer-programmiert-meine-beiden-bettys-um.md"
+    },
+    {
+      "topic_id": 220,
+      "title": "Betty als MPD client",
+      "board": "Software",
+      "board_id": 6,
+      "posts": 132,
+      "authors": [
+        "Fux",
+        "MrFX",
+        "Telekatz",
+        "antonia",
+        "asgard",
+        "frode",
+        "gerdigerdi",
+        "glotzi",
+        "gunnar",
+        "ino",
+        "jannis",
+        "phaidros",
+        "stevie101",
+        "t0bit0bsen"
+      ],
+      "first_post": "13. Oktober 2009, 03:36",
+      "last_post": "24. Nov 2011, 20:31",
+      "file": "0220-betty-als-mpd-client.md"
+    },
+    {
+      "topic_id": 221,
+      "title": "betty_scart woher?",
+      "board": "Software",
+      "board_id": 6,
+      "posts": 3,
+      "authors": [
+        "Gonzo",
+        "Telekatz"
+      ],
+      "first_post": "15. Okt 2009, 22:09",
+      "last_post": "22. Okt 2009, 21:43",
+      "file": "0221-betty-scart-woher.md"
+    },
+    {
+      "topic_id": 223,
+      "title": "Funksteckdose",
+      "board": "Software",
+      "board_id": 6,
+      "posts": 13,
+      "authors": [
+        "RandD",
+        "Telekatz",
+        "eme",
+        "jannis",
+        "tugstugi"
+      ],
+      "first_post": "05. Dez 2009, 01:53",
+      "last_post": "11. Jul 2011, 07:49",
+      "file": "0223-funksteckdose.md"
+    },
+    {
+      "topic_id": 224,
+      "title": "Weihnachten 2009 und Silvester 2009",
+      "board": "Sonstiges",
+      "board_id": 9,
+      "posts": 1,
+      "authors": [
+        "ahnungsloserdepp"
+      ],
+      "first_post": "09. Dez 2009, 09:42",
+      "last_post": "09. Dez 2009, 09:42",
+      "file": "0224-weihnachten-2009-und-silvester-2009.md"
+    },
+    {
+      "topic_id": 225,
+      "title": "Daten Sniffen",
+      "board": "Software",
+      "board_id": 6,
+      "posts": 15,
+      "authors": [
+        "Telekatz",
+        "asgard"
+      ],
+      "first_post": "12. Dezember 2009, 16:14",
+      "last_post": "06. Januar 2010, 17:31",
+      "file": "0225-daten-sniffen.md"
+    },
+    {
+      "topic_id": 226,
+      "title": "Scart - Terminalmode",
+      "board": "Software",
+      "board_id": 6,
+      "posts": 11,
+      "authors": [
+        "Telekatz",
+        "asgard"
+      ],
+      "first_post": "12. Dez 2009, 20:55",
+      "last_post": "13. Dez 2009, 20:44",
+      "file": "0226-scart-terminalmode.md"
+    },
+    {
+      "topic_id": 227,
+      "title": "undefined reference to 'strncpy'/'strncat'/'strnlen'",
+      "board": "Software",
+      "board_id": 6,
+      "posts": 4,
+      "authors": [
+        "Telekatz",
+        "asgard"
+      ],
+      "first_post": "31. Dez 2009, 10:08",
+      "last_post": "31. Dez 2009, 20:02",
+      "file": "0227-undefined-reference-to-strncpy-strncat-strnlen.md"
+    },
+    {
+      "topic_id": 228,
+      "title": "lpctool, ubuntu linux, Reset/eINT1-Timingprobleme mit PL-2303",
+      "board": "Software",
+      "board_id": 6,
+      "posts": 15,
+      "authors": [
+        "Telekatz",
+        "eme"
+      ],
+      "first_post": "30. Jan 2010, 22:08",
+      "last_post": "03. Feb 2010, 23:05",
+      "file": "0228-lpctool-ubuntu-linux-reset-eint1-timingprobleme-mit-pl-2303.md"
+    },
+    {
+      "topic_id": 229,
+      "title": "boopfirmware: bugs/patches by non svn users",
+      "board": "Software",
+      "board_id": 6,
+      "posts": 7,
+      "authors": [
+        "Boregard",
+        "Telekatz",
+        "eme"
+      ],
+      "first_post": "31. Jan 2010, 11:05",
+      "last_post": "07. Feb 2011, 17:45",
+      "file": "0229-boopfirmware-bugs-patches-by-non-svn-users.md"
+    },
+    {
+      "topic_id": 230,
+      "title": "Erinnern Sie sich noch an Betty?",
+      "board": "Sonstiges",
+      "board_id": 7,
+      "posts": 1,
+      "authors": [
+        "eme"
+      ],
+      "first_post": "01. Feb 2010, 12:42",
+      "last_post": "01. Feb 2010, 12:42",
+      "file": "0230-erinnern-sie-sich-noch-an-betty.md"
+    },
+    {
+      "topic_id": 231,
+      "title": "BFS_LoadFile, Flash1",
+      "board": "Software",
+      "board_id": 6,
+      "posts": 4,
+      "authors": [
+        "Telekatz",
+        "eme"
+      ],
+      "first_post": "03. Feb 2010, 19:28",
+      "last_post": "03. Feb 2010, 23:38",
+      "file": "0231-bfs-loadfile-flash1.md"
+    },
+    {
+      "topic_id": 232,
+      "title": "FS20/HX2262 Howto",
+      "board": "Software",
+      "board_id": 6,
+      "posts": 6,
+      "authors": [
+        "Telekatz",
+        "eme",
+        "gunnar"
+      ],
+      "first_post": "10. Feb 2010, 12:22",
+      "last_post": "11. Feb 2010, 16:05",
+      "file": "0232-fs20-hx2262-howto.md"
+    },
+    {
+      "topic_id": 233,
+      "title": "PCD80718HL programmieren",
+      "board": "Hardware",
+      "board_id": 5,
+      "posts": 6,
+      "authors": [
+        "Telekatz",
+        "gunnar"
+      ],
+      "first_post": "18. Feb 2010, 10:45",
+      "last_post": "19. Feb 2010, 09:36",
+      "file": "0233-pcd80718hl-programmieren.md"
+    },
+    {
+      "topic_id": 234,
+      "title": "Da bin ich wieder ....",
+      "board": "Sonstiges",
+      "board_id": 7,
+      "posts": 2,
+      "authors": [
+        "Telekatz",
+        "netguy"
+      ],
+      "first_post": "01. Mär 2010, 19:47",
+      "last_post": "02. Mär 2010, 19:16",
+      "file": "0234-da-bin-ich-wieder.md"
+    },
+    {
+      "topic_id": 235,
+      "title": "Wozu das Ganze?",
+      "board": "Allgemeines",
+      "board_id": 8,
+      "posts": 15,
+      "authors": [
+        "Megabug",
+        "Minze",
+        "Telekatz",
+        "famos",
+        "netguy"
+      ],
+      "first_post": "04. Mär 2010, 15:04",
+      "last_post": "01. Apr 2010, 19:00",
+      "file": "0235-wozu-das-ganze.md"
+    },
+    {
+      "topic_id": 236,
+      "title": "Board-Update",
+      "board": "News",
+      "board_id": 1,
+      "posts": 1,
+      "authors": [
+        "asgard"
+      ],
+      "first_post": "13. März 2010, 08:24",
+      "last_post": "13. März 2010, 08:24",
+      "file": "0236-board-update.md"
+    },
+    {
+      "topic_id": 237,
+      "title": "Universalfernbedienung",
+      "board": "Hardware",
+      "board_id": 5,
+      "posts": 2,
+      "authors": [
+        "Megabug",
+        "knox"
+      ],
+      "first_post": "13. März 2010, 17:19",
+      "last_post": "05. August 2010, 06:37",
+      "file": "0237-universalfernbedienung.md"
+    },
+    {
+      "topic_id": 239,
+      "title": "Hilfe, Betty tot?! Error C20A0001",
+      "board": "Software",
+      "board_id": 6,
+      "posts": 3,
+      "authors": [
+        "Megabug",
+        "retikulum"
+      ],
+      "first_post": "06. August 2010, 22:44",
+      "last_post": "10. August 2010, 16:24",
+      "file": "0239-hilfe-betty-tot-error-c20a0001.md"
+    },
+    {
+      "topic_id": 241,
+      "title": "[gelöst] lpctool mit Cygwin unter Windows 7 bauen?",
+      "board": "Software",
+      "board_id": 6,
+      "posts": 7,
+      "authors": [
+        "Telekatz",
+        "eme"
+      ],
+      "first_post": "04. Okt 2010, 10:05",
+      "last_post": "06. Okt 2010, 20:02",
+      "file": "0241-geloest-lpctool-mit-cygwin-unter-windows-7-bauen.md"
+    },
+    {
+      "topic_id": 242,
+      "title": "Betty als Backend für RCOS !?",
+      "board": "Sonstiges",
+      "board_id": 7,
+      "posts": 4,
+      "authors": [
+        "eme",
+        "olli"
+      ],
+      "first_post": "05. Okt 2010, 21:33",
+      "last_post": "08. Feb 2011, 19:03",
+      "file": "0242-betty-als-backend-fuer-rcos.md"
+    },
+    {
+      "topic_id": 243,
+      "title": "rtc send_time / ask_for_time?",
+      "board": "Software",
+      "board_id": 6,
+      "posts": 5,
+      "authors": [
+        "Telekatz",
+        "eme"
+      ],
+      "first_post": "07. Okt 2010, 17:42",
+      "last_post": "08. Okt 2010, 10:07",
+      "file": "0243-rtc-send-time-ask-for-time.md"
+    },
+    {
+      "topic_id": 246,
+      "title": "Freie Pins, SPI, SD / MMC",
+      "board": "Hardware",
+      "board_id": 5,
+      "posts": 3,
+      "authors": [
+        "Telekatz",
+        "eme"
+      ],
+      "first_post": "11. November 2010, 15:50",
+      "last_post": "11. November 2010, 22:00",
+      "file": "0246-freie-pins-spi-sd-mmc.md"
+    },
+    {
+      "topic_id": 247,
+      "title": "Umbau auf 868 MHz",
+      "board": "Hardware",
+      "board_id": 5,
+      "posts": 5,
+      "authors": [
+        "eme",
+        "r00t"
+      ],
+      "first_post": "13. November 2010, 14:01",
+      "last_post": "21. Februar 2012, 03:28",
+      "file": "0247-umbau-auf-868-mhz.md"
+    },
+    {
+      "topic_id": 248,
+      "title": "Kombiinterface Schaltplan",
+      "board": "Hardware",
+      "board_id": 5,
+      "posts": 3,
+      "authors": [
+        "Telekatz",
+        "rammelsberg"
+      ],
+      "first_post": "16. November 2010, 14:24",
+      "last_post": "17. November 2010, 09:24",
+      "file": "0248-kombiinterface-schaltplan.md"
+    },
+    {
+      "topic_id": 253,
+      "title": "Neuer IR codec für Xoro HRS3000 Sat Receiver",
+      "board": "Software",
+      "board_id": 6,
+      "posts": 1,
+      "authors": [
+        "Boregard"
+      ],
+      "first_post": "14. Jan 2011, 21:59",
+      "last_post": "14. Jan 2011, 21:59",
+      "file": "0253-neuer-ir-codec-fuer-xoro-hrs3000-sat-receiver.md"
+    },
+    {
+      "topic_id": 254,
+      "title": "\"Vergisst\" die Betty manche Programmierungen mit der Zeit?",
+      "board": "Software",
+      "board_id": 6,
+      "posts": 4,
+      "authors": [
+        "Megabug",
+        "teufel2k"
+      ],
+      "first_post": "29. Jan 2011, 12:34",
+      "last_post": "31. Jan 2011, 10:42",
+      "file": "0254-vergisst-die-betty-manche-programmierungen-mit-der-zeit.md"
+    },
+    {
+      "topic_id": 255,
+      "title": "Kann Boop Makros? Kann Boop sich abwechselde Tastenbelegungen?",
+      "board": "Software",
+      "board_id": 6,
+      "posts": 4,
+      "authors": [
+        "RandD",
+        "Telekatz",
+        "eazee",
+        "teufel2k"
+      ],
+      "first_post": "31. Jan 2011, 10:49",
+      "last_post": "19. Okt 2012, 22:44",
+      "file": "0255-kann-boop-makros-kann-boop-sich-abwechselde-tastenbelegungen.md"
+    },
+    {
+      "topic_id": 256,
+      "title": "Hilfe beim seriellen Interface",
+      "board": "Hardware",
+      "board_id": 5,
+      "posts": 8,
+      "authors": [
+        "Megabug",
+        "Patrick",
+        "RandD",
+        "martin99"
+      ],
+      "first_post": "25. März 2011, 10:18",
+      "last_post": "29. März 2011, 07:58",
+      "file": "0256-hilfe-beim-seriellen-interface.md"
+    },
+    {
+      "topic_id": 258,
+      "title": "Betty als lowcost Oszilloskop",
+      "board": "Software",
+      "board_id": 6,
+      "posts": 2,
+      "authors": [
+        "edison",
+        "olli"
+      ],
+      "first_post": "08. Feb 2011, 18:56",
+      "last_post": "19. Feb 2011, 15:35",
+      "file": "0258-betty-als-lowcost-oszilloskop.md"
+    },
+    {
+      "topic_id": 259,
+      "title": "Neue Fernebdienung mit lirc anlernen für Boop",
+      "board": "Software",
+      "board_id": 6,
+      "posts": 2,
+      "authors": [
+        "Telekatz",
+        "teufel2k"
+      ],
+      "first_post": "15. Feb 2011, 10:10",
+      "last_post": "15. Feb 2011, 12:19",
+      "file": "0259-neue-fernebdienung-mit-lirc-anlernen-fuer-boop.md"
+    },
+    {
+      "topic_id": 260,
+      "title": "Nachruf an meine heiß geliebte Betty",
+      "board": "Sonstiges",
+      "board_id": 7,
+      "posts": 1,
+      "authors": [
+        "teufel2k"
+      ],
+      "first_post": "20. Feb 2011, 11:41",
+      "last_post": "20. Feb 2011, 11:41",
+      "file": "0260-nachruf-an-meine-heiss-geliebte-betty.md"
+    },
+    {
+      "topic_id": 261,
+      "title": "Toolchain für Mac OS X / Linux",
+      "board": "Software",
+      "board_id": 6,
+      "posts": 16,
+      "authors": [
+        "Televio",
+        "gunnar",
+        "temp12",
+        "thinkJD",
+        "tugstugi"
+      ],
+      "first_post": "13. Mär 2011, 09:57",
+      "last_post": "20. Mär 2011, 21:12",
+      "file": "0261-toolchain-fuer-mac-os-x-linux.md"
+    },
+    {
+      "topic_id": 262,
+      "title": "Betty und X10 Protokoll",
+      "board": "Software",
+      "board_id": 6,
+      "posts": 1,
+      "authors": [
+        "glotzi"
+      ],
+      "first_post": "17. Mär 2011, 22:27",
+      "last_post": "17. Mär 2011, 22:27",
+      "file": "0262-betty-und-x10-protokoll.md"
+    },
+    {
+      "topic_id": 266,
+      "title": "Wieviel Speicher bleibt in Boop für weitere Variablen",
+      "board": "Software",
+      "board_id": 6,
+      "posts": 3,
+      "authors": [
+        "Telekatz",
+        "Walter"
+      ],
+      "first_post": "05. Jun 2011, 17:42",
+      "last_post": "06. Jun 2011, 23:30",
+      "file": "0266-wieviel-speicher-bleibt-in-boop-fuer-weitere-variablen.md"
+    },
+    {
+      "topic_id": 267,
+      "title": "PLL umschalten",
+      "board": "Software",
+      "board_id": 6,
+      "posts": 1,
+      "authors": [
+        "Walter"
+      ],
+      "first_post": "06. Jun 2011, 23:20",
+      "last_post": "06. Jun 2011, 23:20",
+      "file": "0267-pll-umschalten.md"
+    },
+    {
+      "topic_id": 268,
+      "title": "Scart problems.",
+      "board": "Software",
+      "board_id": 6,
+      "posts": 2,
+      "authors": [
+        "jannis",
+        "rekordc"
+      ],
+      "first_post": "23. Juni 2011, 19:23",
+      "last_post": "",
+      "file": "0268-scart-problems.md"
+    },
+    {
+      "topic_id": 269,
+      "title": "Aktueller GCC 4.5.2 von CodeSourcery produziert Alignment Warnings",
+      "board": "Software",
+      "board_id": 6,
+      "posts": 4,
+      "authors": [
+        "glotzi",
+        "gunnar"
+      ],
+      "first_post": "13. Jul 2011, 16:07",
+      "last_post": "16. Apr 2013, 21:41",
+      "file": "0269-aktueller-gcc-4-5-2-von-codesourcery-produziert-alignment-wa.md"
+    },
+    {
+      "topic_id": 272,
+      "title": "suche eine Betty speziell für mich!!!!",
+      "board": "Software",
+      "board_id": 6,
+      "posts": 4,
+      "authors": [
+        "-heule-",
+        "MasTi",
+        "eme"
+      ],
+      "first_post": "19. Sep 2011, 10:42",
+      "last_post": "23. Okt 2011, 10:08",
+      "file": "0272-suche-eine-betty-speziell-fuer-mich.md"
+    },
+    {
+      "topic_id": 273,
+      "title": "Toolchain",
+      "board": "Software",
+      "board_id": 6,
+      "posts": 7,
+      "authors": [
+        "Josch",
+        "gunnar"
+      ],
+      "first_post": "31. Okt 2011, 18:04",
+      "last_post": "16. Apr 2013, 21:41",
+      "file": "0273-toolchain.md"
+    },
+    {
+      "topic_id": 274,
+      "title": "Funkverbindung / mehrere Bettys",
+      "board": "Sonstiges",
+      "board_id": 7,
+      "posts": 3,
+      "authors": [
+        "Flunder",
+        "gunnar"
+      ],
+      "first_post": "11. Nov 2011, 21:50",
+      "last_post": "15. Nov 2011, 23:52",
+      "file": "0274-funkverbindung-mehrere-bettys.md"
+    },
+    {
+      "topic_id": 276,
+      "title": "Hallo allerseits",
+      "board": "Sonstiges",
+      "board_id": 7,
+      "posts": 4,
+      "authors": [
+        "Flunder",
+        "jannis",
+        "togeil"
+      ],
+      "first_post": "11. Dez 2011, 09:31",
+      "last_post": "16. Dez 2011, 20:01",
+      "file": "0276-hallo-allerseits.md"
+    },
+    {
+      "topic_id": 278,
+      "title": "erweiterung der betty hardware / freie GPIOs",
+      "board": "Hardware",
+      "board_id": 5,
+      "posts": 4,
+      "authors": [
+        "Flunder",
+        "famos",
+        "r00t"
+      ],
+      "first_post": "04. Jan 2012, 07:02",
+      "last_post": "21. Feb 2012, 03:36",
+      "file": "0278-erweiterung-der-betty-hardware-freie-gpios.md"
+    },
+    {
+      "topic_id": 279,
+      "title": "Bettys bei Pollin",
+      "board": "Sonstiges",
+      "board_id": 7,
+      "posts": 17,
+      "authors": [
+        "Luxman",
+        "Querry99",
+        "backbone10",
+        "femto",
+        "glotzi",
+        "gunnar",
+        "maselx",
+        "mx"
+      ],
+      "first_post": "26. Sep 2012, 14:28",
+      "last_post": "04. Nov 2012, 21:22",
+      "file": "0279-bettys-bei-pollin.md"
+    },
+    {
+      "topic_id": 280,
+      "title": "Boop geflasht, nichts geht ?",
+      "board": "Software",
+      "board_id": 6,
+      "posts": 41,
+      "authors": [
+        "0xDEAD",
+        "Axel",
+        "OCMoe",
+        "Telekatz",
+        "Torsten",
+        "bastler",
+        "chcatz",
+        "chefpro",
+        "eazee",
+        "femto",
+        "gunnar",
+        "maselx",
+        "mx",
+        "swausd"
+      ],
+      "first_post": "02. Okt 2012, 08:55",
+      "last_post": "30. Mär 2013, 10:24",
+      "file": "0280-boop-geflasht-nichts-geht.md"
+    },
+    {
+      "topic_id": 281,
+      "title": "Angelernte IR-Codes werden \"unendlich\" gesendet",
+      "board": "Software",
+      "board_id": 6,
+      "posts": 6,
+      "authors": [
+        "eazee",
+        "gunnar",
+        "mx"
+      ],
+      "first_post": "17. Okt 2012, 07:22",
+      "last_post": "18. Okt 2012, 22:51",
+      "file": "0281-angelernte-ir-codes-werden-unendlich-gesendet.md"
+    },
+    {
+      "topic_id": 282,
+      "title": "Betty tot?",
+      "board": "Hardware",
+      "board_id": 5,
+      "posts": 1,
+      "authors": [
+        "Vogtinator"
+      ],
+      "first_post": "03. November 2012, 12:54",
+      "last_post": "03. November 2012, 12:54",
+      "file": "0282-betty-tot.md"
+    },
+    {
+      "topic_id": 283,
+      "title": "Osnabrück??",
+      "board": "Sonstiges",
+      "board_id": 7,
+      "posts": 2,
+      "authors": [
+        "OCMoe",
+        "bjoernemann"
+      ],
+      "first_post": "05. Nov 2012, 17:09",
+      "last_post": "09. Dez 2012, 15:50",
+      "file": "0283-osnabrueck.md"
+    },
+    {
+      "topic_id": 285,
+      "title": "Neues user",
+      "board": "Sonstiges",
+      "board_id": 7,
+      "posts": 12,
+      "authors": [
+        "bingo600",
+        "ocalex",
+        "swausd"
+      ],
+      "first_post": "20. Nov 2012, 22:41",
+      "last_post": "30. Nov 2012, 23:30",
+      "file": "0285-neues-user.md"
+    },
+    {
+      "topic_id": 286,
+      "title": "Betty Schaltplan/Schematic",
+      "board": "Hardware",
+      "board_id": 5,
+      "posts": 2,
+      "authors": [
+        "bingo600",
+        "xenpac"
+      ],
+      "first_post": "22. Nov 2012, 17:40",
+      "last_post": "27. Apr 2014, 17:35",
+      "file": "0286-betty-schaltplan-schematic.md"
+    },
+    {
+      "topic_id": 287,
+      "title": "16er Packs geliefert bekommen?",
+      "board": "Sonstiges",
+      "board_id": 7,
+      "posts": 5,
+      "authors": [
+        "asgard",
+        "bingo600",
+        "glotzi",
+        "swausd"
+      ],
+      "first_post": "30. Nov 2012, 16:02",
+      "last_post": "04. Dez 2012, 17:35",
+      "file": "0287-16er-packs-geliefert-bekommen.md"
+    },
+    {
+      "topic_id": 288,
+      "title": "Betty mit BusPirate programmieren",
+      "board": "Software",
+      "board_id": 6,
+      "posts": 5,
+      "authors": [
+        "OCMoe",
+        "brainwash",
+        "koppi"
+      ],
+      "first_post": "09. Dez 2012, 15:56",
+      "last_post": "21. Feb 2013, 12:21",
+      "file": "0288-betty-mit-buspirate-programmieren.md"
+    },
+    {
+      "topic_id": 289,
+      "title": "Compilerfehler",
+      "board": "Software",
+      "board_id": 6,
+      "posts": 3,
+      "authors": [
+        "Michel",
+        "bingo600"
+      ],
+      "first_post": "15. Dez 2012, 10:52",
+      "last_post": "17. Dez 2012, 21:51",
+      "file": "0289-compilerfehler.md"
+    },
+    {
+      "topic_id": 290,
+      "title": "Was ist möglich?",
+      "board": "Sonstiges",
+      "board_id": 7,
+      "posts": 3,
+      "authors": [
+        "OCMoe",
+        "Robi2003",
+        "mx"
+      ],
+      "first_post": "28. Dez 2012, 17:52",
+      "last_post": "22. Okt 2013, 14:38",
+      "file": "0290-was-ist-moeglich.md"
+    },
+    {
+      "topic_id": 291,
+      "title": "Flash erase -> JTAG geht nicht mehr",
+      "board": "Software",
+      "board_id": 6,
+      "posts": 3,
+      "authors": [
+        "Telekatz",
+        "koppi",
+        "xenpac"
+      ],
+      "first_post": "28. Dez 2012, 23:16",
+      "last_post": "08. Apr 2013, 18:23",
+      "file": "0291-flash-erase-jtag-geht-nicht-mehr.md"
+    },
+    {
+      "topic_id": 293,
+      "title": "Cannot flash - lpctool / nxp / BettyHeaven",
+      "board": "Hardware",
+      "board_id": 5,
+      "posts": 3,
+      "authors": [
+        "brainwash"
+      ],
+      "first_post": "19. Feb 2013, 11:20",
+      "last_post": "20. Feb 2013, 10:27",
+      "file": "0293-cannot-flash-lpctool-nxp-bettyheaven.md"
+    },
+    {
+      "topic_id": 294,
+      "title": "J-Link an Betty anschliessen",
+      "board": "Software",
+      "board_id": 6,
+      "posts": 3,
+      "authors": [
+        "gunnar",
+        "xenpac"
+      ],
+      "first_post": "08. Apr 2013, 18:29",
+      "last_post": "21. Aug 2014, 16:30",
+      "file": "0294-j-link-an-betty-anschliessen.md"
+    },
+    {
+      "topic_id": 295,
+      "title": "Boop Kompilieren unter winarm",
+      "board": "Software",
+      "board_id": 6,
+      "posts": 4,
+      "authors": [
+        "gunnar",
+        "wollywell"
+      ],
+      "first_post": "19. Mai 2013, 09:56",
+      "last_post": "21. Mai 2013, 09:57",
+      "file": "0295-boop-kompilieren-unter-winarm.md"
+    },
+    {
+      "topic_id": 296,
+      "title": "Betty-Heaven tot?",
+      "board": "Software",
+      "board_id": 6,
+      "posts": 3,
+      "authors": [
+        "domme2812",
+        "flatzmaus"
+      ],
+      "first_post": "23. Jul 2013, 21:30",
+      "last_post": "26. Jul 2013, 21:27",
+      "file": "0296-betty-heaven-tot.md"
+    },
+    {
+      "topic_id": 298,
+      "title": "Zwei Bettys zu verschenken",
+      "board": "Sonstiges",
+      "board_id": 9,
+      "posts": 2,
+      "authors": [
+        "Arty",
+        "christoph60"
+      ],
+      "first_post": "28. Jul 2013, 19:42",
+      "last_post": "13. Aug 2013, 20:06",
+      "file": "0298-zwei-bettys-zu-verschenken.md"
+    },
+    {
+      "topic_id": 300,
+      "title": "Betty zur Universalfernbedienung umprogrammieren",
+      "board": "Software",
+      "board_id": 6,
+      "posts": 2,
+      "authors": [
+        "Mellchen",
+        "gunnar"
+      ],
+      "first_post": "25. Aug 2013, 22:38",
+      "last_post": "27. Aug 2013, 18:39",
+      "file": "0300-betty-zur-universalfernbedienung-umprogrammieren.md"
+    },
+    {
+      "topic_id": 406,
+      "title": "Brauche dringend User Admin Rechte!",
+      "board": "News",
+      "board_id": 1,
+      "posts": 2,
+      "authors": [
+        "asgard",
+        "gunnar"
+      ],
+      "first_post": "30. Aug 2013, 08:12",
+      "last_post": "08. Sep 2013, 15:04",
+      "file": "0406-brauche-dringend-user-admin-rechte.md"
+    },
+    {
+      "topic_id": 1045,
+      "title": "Erfahrung teilen :)",
+      "board": "Sonstiges",
+      "board_id": 7,
+      "posts": 1,
+      "authors": [
+        "Arty"
+      ],
+      "first_post": "13. Sep 2013, 13:18",
+      "last_post": "13. Sep 2013, 13:18",
+      "file": "1045-erfahrung-teilen.md"
+    },
+    {
+      "topic_id": 1046,
+      "title": "Probleme beim kompilieren mit WinARM unter Windows 7 x64",
+      "board": "Software",
+      "board_id": 6,
+      "posts": 3,
+      "authors": [
+        "bingo600",
+        "samerbaer"
+      ],
+      "first_post": "02. Okt 2013, 15:17",
+      "last_post": "22. Okt 2013, 08:05",
+      "file": "1046-probleme-beim-kompilieren-mit-winarm-unter-windows-7-x64.md"
+    },
+    {
+      "topic_id": 1048,
+      "title": "suche noch Bettys",
+      "board": "Hardware",
+      "board_id": 5,
+      "posts": 2,
+      "authors": [
+        "King Rollo",
+        "xenpac"
+      ],
+      "first_post": "27. Apr 2014, 17:16",
+      "last_post": "30. Aug 2014, 10:37",
+      "file": "1048-suche-noch-bettys.md"
+    },
+    {
+      "topic_id": 1049,
+      "title": "Betty erstanden (Juni 2014!!!) - Probleme mit Debian Squeeze und Toolchain",
+      "board": "Software",
+      "board_id": 6,
+      "posts": 7,
+      "authors": [
+        "balou1974",
+        "bingo600"
+      ],
+      "first_post": "03. Jun 2014, 06:59",
+      "last_post": "10. Jun 2014, 15:52",
+      "file": "1049-betty-erstanden-juni-2014-probleme-mit-debian-squeeze-und-to.md"
+    },
+    {
+      "topic_id": 1050,
+      "title": "Betty für arm-launchpad compiler",
+      "board": "Software",
+      "board_id": 6,
+      "posts": 1,
+      "authors": [
+        "bingo600"
+      ],
+      "first_post": "03. Jun 2014, 21:24",
+      "last_post": "03. Jun 2014, 21:24",
+      "file": "1050-betty-fuer-arm-launchpad-compiler.md"
+    },
+    {
+      "topic_id": 1051,
+      "title": "Newby: Betty von Pollin, Software von wo?",
+      "board": "Software",
+      "board_id": 6,
+      "posts": 4,
+      "authors": [
+        "Chameo",
+        "Kampfkuchen",
+        "SirTurbo",
+        "elrost"
+      ],
+      "first_post": "22. Sep 2014, 19:48",
+      "last_post": "14. Nov 2014, 22:01",
+      "file": "1051-newby-betty-von-pollin-software-von-wo.md"
+    },
+    {
+      "topic_id": 1052,
+      "title": "Verschiedene Hardwarerevisionen?",
+      "board": "Hardware",
+      "board_id": 5,
+      "posts": 2,
+      "authors": [
+        "Kampfkuchen",
+        "famos"
+      ],
+      "first_post": "08. Nov 2014, 14:54",
+      "last_post": "18. Dez 2016, 19:34",
+      "file": "1052-verschiedene-hardwarerevisionen.md"
+    },
+    {
+      "topic_id": 1054,
+      "title": "Biete 5Stk. Betty",
+      "board": "Hardware",
+      "board_id": 5,
+      "posts": 1,
+      "authors": [
+        "flatzmaus"
+      ],
+      "first_post": "30. Dez 2014, 17:38",
+      "last_post": "30. Dez 2014, 17:38",
+      "file": "1054-biete-5stk-betty.md"
+    },
+    {
+      "topic_id": 1055,
+      "title": "Wiki Probleme",
+      "board": "News",
+      "board_id": 1,
+      "posts": 2,
+      "authors": [
+        "gunnar"
+      ],
+      "first_post": "27. Apr 2015, 12:55",
+      "last_post": "29. Jul 2015, 15:11",
+      "file": "1055-wiki-probleme.md"
+    },
+    {
+      "topic_id": 1056,
+      "title": "Wiki & Webseite allgemein",
+      "board": "Sonstiges",
+      "board_id": 7,
+      "posts": 3,
+      "authors": [
+        "Telekatz",
+        "eme",
+        "manawyrm"
+      ],
+      "first_post": "05. Jun 2016, 18:22",
+      "last_post": "18. Okt 2016, 11:11",
+      "file": "1056-wiki-webseite-allgemein.md"
+    },
+    {
+      "topic_id": 1057,
+      "title": "Possible wrong define in  cc1100/rf.h",
+      "board": "Software",
+      "board_id": 6,
+      "posts": 1,
+      "authors": [
+        "bingo600"
+      ],
+      "first_post": "09. Mär 2017, 22:16",
+      "last_post": "09. Mär 2017, 22:16",
+      "file": "1057-possible-wrong-define-in-cc1100-rf-h.md"
+    }
+  ],
+  "warnings": []
+}

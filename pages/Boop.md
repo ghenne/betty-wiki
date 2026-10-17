@@ -16,7 +16,7 @@ Den aktuellen Source erhält man über [SVN](SVN.md "SVN") [hier](https://source
 
 ## Mitarbeit
 
-Wenn Du Fehler findest, oder anders helfen möchtest, melde Dich am Besten im [Forum](http://bettyhacks.com/forum). Zum Entwickeln: [Coding Style](Coding%20Style.md "Coding Style").
+Wenn Du Fehler findest, oder anders helfen möchtest, melde Dich am Besten im [Forum](../forum). Zum Entwickeln: [Coding Style](Coding%20Style.md "Coding Style").
 
   
 
@@ -24,7 +24,7 @@ Wenn Du Fehler findest, oder anders helfen möchtest, melde Dich am Besten im [F
 
 Die Firmware ist in C geschrieben für den 32-bit Mikroprozessor mit ARM7 Kern (siehe [Entwicklungsumgebungen](Entwicklungsumgebungen.md "Entwicklungsumgebungen")). Es sind 64kb SRAM und 16mbit (= 2 MiByte) externer Flash-Speicher vorhanden.
 
-Es ist möglich, ein Programm direkt aus dem RAM auszuführen. Das Überschreiben des Flashspeichers entfällt so (siehe [Forum](http://bettyhacks.com/forum/index.php?topic=215.msg1449#msg1449)).
+Es ist möglich, ein Programm direkt aus dem RAM auszuführen. Das Überschreiben des Flashspeichers entfällt so (siehe [Forum](../forum/topics/0215-source-lcptool-und-beispielprogramm-das-im-ram-laeuft.md#msg1449)).
 
 Näheres zu den Komponenten unter [Betty Hardware](Betty%20Hardware.md "Betty Hardware") und [hackdaworld](http://www.hackdaworld.org/cgi-bin/awki.cgi/BettyTV)
 
@@ -86,12 +86,23 @@ Sounderzeugung (Menu\>TestStuff\>SID) und Wiedergabe von Samples (Menu\>Credits)
 
 Transceiver [CC1100](CC1100.md "CC1100") Testweise als IR-Device eingebaut, überträgt Tastencodes an den [SCART Adapter](SCART%20Adapter.md "SCART Adapter") mit [betty_scart](Betty%20scart.md "Betty scart")
 
-- Kommunikation Scartadapter [Forum](http://bettyhacks.com/forum/index.php?topic=114.msg826#msg826)
-- Transceiver CC1100 Möglichkeiten [Forum](http://bettyhacks.com/forum/index.php?topic=121.msg850#msg850)
+- Kommunikation Scartadapter [Forum](../forum/topics/0114-kommunikation-scartadapter.md#msg826)
+- Transceiver CC1100 Möglichkeiten [Forum](../forum/topics/0121-transceiver-cc1100-moeglichkeiten.md#msg850)
 
 #### Uhr
 
 I2C
+
+<!-- forum-links:start -->
+## Forumsdiskussionen: Bugs und Patches
+
+Fehler und Patches aus der Community, u. a. in `infrared.c`.
+
+### Bugs/Patches: infrared.c und Boop-Firmware
+
+- [Kleine Unschönheit in infrared.c](../forum/topics/0190-kleine-unschoenheit-in-infrared-c.md) — Kleinere Unschönheit in infrared.c.
+- [boopfirmware: bugs/patches by non svn users](../forum/topics/0229-boopfirmware-bugs-patches-by-non-svn-users.md) — Bug-/Patch-Sammlung von Boop-Nutzern ohne SVN-Zugang.
+<!-- forum-links:end -->
 
 ---
 

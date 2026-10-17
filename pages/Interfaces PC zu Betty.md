@@ -74,6 +74,16 @@ Ein zusätzlicher PullUp-Widerstand von 4,7 kiloOhm zwischen "TX" und "3,3V" am 
 
 Siehe auch [LPCTool#Lpctool-Probleme](LPCTool.md "LPCTool").
 
+<!-- forum-links:start -->
+## Forumsdiskussionen: bidirektionale Kommunikation
+
+Bidirektionale Kommunikation zwischen PC und Betty und ihre Anwendungsfälle.
+
+### Bidirektionale Kommunikation mit dem PC
+
+- [Bidirektionale Kommunikation mit PC](../forum/topics/0134-bidirektionale-kommunikation-mit-pc.md) — Bidirektionale Kommunikation zwischen PC und Betty.
+<!-- forum-links:end -->
+
 ---
 
 [Startseite](Main%20Page.md) · [Index](../index.md) · [Kategorien](../categories.md)

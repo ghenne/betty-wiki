@@ -23,7 +23,7 @@ Betty \<\> Funk \<\> [SCART Adapter](SCART%20Adapter.md "SCART Adapter") \<\> Te
 
 # Universalfernbedienung
 
-Nach Einstellen der Geschäftstätigkeit von betty-tv konnte man Betty über ein telefonisches Firmwareupdate zu einer einfachen Universalfernbedienung machen. Diese Firmware gibt es [hier](http://bettyhacks.com/forum/index.php?topic=89.msg807#msg807).
+Nach Einstellen der Geschäftstätigkeit von betty-tv konnte man Betty über ein telefonisches Firmwareupdate zu einer einfachen Universalfernbedienung machen. Diese Firmware gibt es [hier](../forum/topics/0089-neue-software-von-betty-tv.md#msg807).
 
 ## Features
 
@@ -71,6 +71,23 @@ Wie kommt diese Firmware in die Betty? Siehe [Firmware_flashen](Firmware%20flash
 Mit einem zweckentfremdeten [Handy-Datenkabel](Interfaces%20PC%20zu%20Betty.md "Interfaces PC zu Betty") und dem Programm [LPCTool](LPCTool.md "LPCTool") unter Linux z.B. so:
 
     ./lpctool -d /dev/ttyUSB0 -i -v -e -a Flash1_UniFB.bin -E -b Flash2_UniFB.bin
+
+<!-- forum-links:start -->
+## Forumsdiskussionen: Universalfernbedienung
+
+Original-Firmware und Universalfernbedienung: Aufspielen, Software-Reset und das Vergessen von Programmierungen.
+
+### Universalfernbedienung / Original-Firmware
+
+- [Betty zur Universalfernbedienung umprogrammieren](../forum/topics/0300-betty-zur-universalfernbedienung-umprogrammieren.md) — Betty wieder zur Universalfernbedienung umprogrammieren.
+- [Aufspielen der neuen Software](../forum/topics/0154-aufspielen-der-neuen-software.md) — Neue Software auf eine Betty aufspielen.
+- [Neue Software von Betty-tv](../forum/topics/0089-neue-software-von-betty-tv.md) — Neue Software von Betty-TV und Update über den LAN-Adapter.
+- [Software Reset Betty-TV](../forum/topics/0090-software-reset-betty-tv.md) — Software-Reset nach der Betty-TV-Abschaltung.
+
+### Betty vergisst Programmierungen
+
+- ["Vergisst" die Betty manche Programmierungen mit der Zeit?](../forum/topics/0254-vergisst-die-betty-manche-programmierungen-mit-der-zeit.md) — Betty vergisst nach einiger Zeit Fernbedienungscodes.
+<!-- forum-links:end -->
 
 ---
 

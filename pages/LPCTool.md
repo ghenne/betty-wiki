@@ -12,7 +12,7 @@ Quellcode im SVN ansehen: <http://boopfirmware.svn.sourceforge.net/viewvc/boopfi
 
 ## Forumsdiskussion
 
-Die Ankündigung des Programms im Forum: <http://bettyhacks.com/forum/index.php?topic=54.0>
+Die Ankündigung des Programms im Forum: [lpctool - schneller upload](../forum/topics/0054-lpctool-schneller-upload.md)
 
 ## Funktion
 
@@ -175,9 +175,9 @@ Flashen kann man dann z.B. so:
 
 Falls nach dem Laden des Bootloaders (ramtool) die Fernbedienung neu startet (reset!) - im Quellcode die Geschwindigkeit (u.a. TOOLBAUD) von 115.200 baud auf 38.400 baud reduzieren. "tcsetattr" toggelt beim Baud-Wechsel (38.400-\>115.200) den reset-Pin (Linux, CentOS 5, USB-Seriell-Kabel, Windows mit FT232R, Linux mit PL2303(H?)X.
 
-Eine gebremste lpctool-cygwin für Windows gibt es [im Forum](http://bettyhacks.com/forum/index.php?topic=54.msg842#msg842).
+Eine gebremste lpctool-cygwin für Windows gibt es [im Forum](../forum/topics/0054-lpctool-schneller-upload.md#msg842).
 
-Eine mit cygwin für Windows gebaute Version, die ohne Baudratenwechsel bei 38400 baud auskommt gibt es ebenfalls [im Forum](http://bettyhacks.com/forum/index.php?topic=241.msg1667#msg1667). Getestet mit PL-230? USB-UART Wandler.
+Eine mit cygwin für Windows gebaute Version, die ohne Baudratenwechsel bei 38400 baud auskommt gibt es ebenfalls [im Forum](../forum/topics/0241-geloest-lpctool-mit-cygwin-unter-windows-7-bauen.md#msg1667). Getestet mit PL-230? USB-UART Wandler.
 
   
 Stellen im Code von LPCTOOL:
@@ -197,6 +197,32 @@ muss geändert werden in
 muss geändert werden in
 
      serial_setbrg (38400);
+
+<!-- forum-links:start -->
+## Forumsdiskussionen: Quellen, Programmer und Timing
+
+Ergänzungen zum LPCTool: Quellcode und RAM-Programme, BusPirate als Programmer, Timingprobleme mit dem PL-2303 unter Ubuntu, Cygwin-Builds und der Soft-Reset nach dem Flashen.
+
+### LPCTool-Quellen und RAM-Programm
+
+- [Source LCPTool und Beispielprogramm, das im Ram läuft](../forum/topics/0215-source-lcptool-und-beispielprogramm-das-im-ram-laeuft.md) — LPCTool-Quellcode und ein Beispielprogramm im RAM.
+
+### BusPirate als Programmer
+
+- [Betty mit BusPirate programmieren](../forum/topics/0288-betty-mit-buspirate-programmieren.md) — BusPirate im UART-Modus als Programmer für Betty.
+
+### lpctool unter Ubuntu / PL-2303-Timing
+
+- [lpctool, ubuntu linux, Reset/eINT1-Timingprobleme mit PL-2303](../forum/topics/0228-lpctool-ubuntu-linux-reset-eint1-timingprobleme-mit-pl-2303.md) — Reset-/eINT1-Timingprobleme mit PL-2303 unter Ubuntu.
+
+### lpctool mit Cygwin unter Windows 7 bauen
+
+- [[gelöst] lpctool mit Cygwin unter Windows 7 bauen?](../forum/topics/0241-geloest-lpctool-mit-cygwin-unter-windows-7-bauen.md) · [GitHub](../forum/topics/0241-geloest-lpctool-mit-cygwin-unter-windows-7-bauen.md) — lpctool mit Cygwin unter Windows 7 bauen.
+
+### Soft-Reset nach dem Flashen
+
+- [soft-reset nach dem flashen mit lpctool](../forum/topics/0189-soft-reset-nach-dem-flashen-mit-lpctool.md) — Soft-Reset über RX/TX/GND nach dem Flashen.
+<!-- forum-links:end -->
 
 ---
 

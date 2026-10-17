@@ -145,6 +145,16 @@ Dies sind die Routinen der Original-Firmware, mit der ein Sektor im Flash gelös
     CS0:80001D30                 LDMFD   SP!, {R4,R5,PC}
     CS0:80001D30 ; End of function programFlash
 
+<!-- forum-links:start -->
+## Forumsdiskussionen: BFS_LoadFile und Flash1
+
+BFS_LoadFile, Flash1 und eine Kontrasteinstellung im Settingsmenü.
+
+### BFS_LoadFile / Flash1 und Kontrasteinstellung
+
+- [BFS_LoadFile, Flash1](../forum/topics/0231-bfs-loadfile-flash1.md) — BFS_LoadFile, Flash1 und eine Kontrasteinstellung im Settingsmenü.
+<!-- forum-links:end -->
+
 ---
 
 [Startseite](Main%20Page.md) · [Index](../index.md) · [Kategorien](../categories.md)

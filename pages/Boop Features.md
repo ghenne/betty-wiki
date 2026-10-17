@@ -18,7 +18,7 @@ Es ist relativ einfach möglich, [LIRC](http://www.lirc.org/)-kompatible Geräte
 
     boop/infrared/ir_codes
 
-<http://bettyhacks.com/forum/index.php?topic=110.msg796#msg796>
+[Fernbedienungscodes](../forum/topics/0110-fernbedienungscodes.md#msg796)
 
 Mit dem Encoder LIRC ist es noch einfacher, Codes aus der [LIRC-Datenbank](http://lirc.sourceforge.net/remotes/) in Boop zu integrieren.
 
@@ -36,7 +36,7 @@ Bedeutung der Werte: <http://bettyhacks.com/forum/index.php?topic=144.0>
 
 ##### Funksteckdosen
 
-Der "LIRC" Encoder kann Pulse auch über den RF-IC senden. Funksteckdosen benutzen AM im 433 MHz ISM Band mit häufig trinären Encodern. Die drei Zustände lassen sich durch zwei Symbole codieren. Die "LIRC" Struktur wurde so erweitert, dass die Sendedaten als o.g. Symbole interpretiert und in entsprechende Pulsfolgen umgesetzt werden (<http://bettyhacks.com/forum/index.php?topic=223.msg1542#msg1542>). Das Senden erfolgt durch ... des RF-ICs.
+Der "LIRC" Encoder kann Pulse auch über den RF-IC senden. Funksteckdosen benutzen AM im 433 MHz ISM Band mit häufig trinären Encodern. Die drei Zustände lassen sich durch zwei Symbole codieren. Die "LIRC" Struktur wurde so erweitert, dass die Sendedaten als o.g. Symbole interpretiert und in entsprechende Pulsfolgen umgesetzt werden ([Funksteckdose](../forum/topics/0223-funksteckdose.md#msg1542)). Das Senden erfolgt durch ... des RF-ICs.
 
 Auch wenn die Systeme ähnliche Encoder verwenden, entscheidet die Beschaltung über die gesendeten Codes.
 
@@ -77,7 +77,7 @@ FS20:
 
 868 MHz ISM-Band. Der [CC1100](CC1100.md "CC1100") ist für 434 MHz beschaltet, entsprechend schlechter ist die Sende/Empfangsleistung in diesem Band.
 
-Mit dem LIRC Encoder. <http://bettyhacks.com/forum/index.php?topic=223.msg1542#msg1542>
+Mit dem LIRC Encoder. [Funksteckdose](../forum/topics/0223-funksteckdose.md#msg1542)
 
 Protokoll:
 
@@ -103,7 +103,7 @@ Stellt die Feldstärke grafisch dar.
 
 ##### RF Viewer
 
-Plottet die Daten asynchron, 1 px entspricht 50 µs. Alternativ Ausgabe über serielle Schnittstelle. <http://bettyhacks.com/forum/index.php?topic=232.msg1600#msg1600>
+Plottet die Daten asynchron, 1 px entspricht 50 µs. Alternativ Ausgabe über serielle Schnittstelle. [FS20/HX2262 Howto](../forum/topics/0232-fs20-hx2262-howto.md#msg1600)
 
 ##### Redirector
 
@@ -168,6 +168,20 @@ Es gibt 3 Spiele:
     I - prints irIRQ status (hex value)
     K - prints keyIRQ status (hex value)
     all other inputs are echoed
+
+<!-- forum-links:start -->
+## Forumsdiskussionen: Makros und Tastenbelegung
+
+Ergänzung zu den Boop-Features: Makros (mehrere Codes pro Taste) und wechselnde Tastenbelegungen.
+
+### Boop: Makros und wechselnde Tastenbelegungen
+
+- [Kann Boop Makros? Kann Boop sich abwechselde Tastenbelegungen?](../forum/topics/0255-kann-boop-makros-kann-boop-sich-abwechselde-tastenbelegungen.md) — Makros und wechselnde Tastenbelegungen in Boop.
+
+### Boop: Fernbedienung anlernen
+
+- [Boop: Fernbedienung anlernen](../forum/topics/0162-boop-fernbedienung-anlernen.md) — IR-Signale aufzeichnen/wiedergeben und fremde Fernbedienungen an Boop anlernen.
+<!-- forum-links:end -->
 
 ---
 

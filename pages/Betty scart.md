@@ -6,7 +6,7 @@ betty_scart ist eine Firmware für den [Mikrocontroller](SCART%20Adapter%20Hardw
 
 Sie empfängt Daten von der [Betty](Betty.md "Betty") per Funk und gibt sie über die serielle Schnittstelle aus.
 
-Telekatz: "Übertragung der Tastendrücke an den Scartadapter ist jetzt möglich. Ich habe dafür einen neuen IR encoder hinzugefügt, der anstelle eines IR Signals ein Funkübertragung sendet. Dies ist mit dem Scartadapter im binary mode empfangbar." [Forum](http://bettyhacks.com/forum/index.php?topic=14.msg822#msg822), weitergeführte Diskussion ["Kommunikation Scartadapter"](http://bettyhacks.com/forum/index.php?topic=114.msg826;topicseen#msg826)
+Telekatz: "Übertragung der Tastendrücke an den Scartadapter ist jetzt möglich. Ich habe dafür einen neuen IR encoder hinzugefügt, der anstelle eines IR Signals ein Funkübertragung sendet. Dies ist mit dem Scartadapter im binary mode empfangbar." [Forum](../forum/topics/0014-welches-ziel-mit-der-betty.md#msg822), weitergeführte Diskussion ["Kommunikation Scartadapter"](../forum/topics/0114-kommunikation-scartadapter.md#msg826)
 
 Infos zu Datenrate und Kommandos stehen in der [readme.txt](https://boopfirmware.svn.sourceforge.net/svnroot/boopfirmware/betty_scart/trunk/readme.txt)
 
@@ -55,7 +55,7 @@ Der Mikrocontroller verfügt über einen Bootloader, mit dem über die ICP/ISP S
 ### Mit dem PC über einen Adapter
 
 - [SCART-Betty-Kombiinterface](SCART-Betty-Kombiinterface.md "SCART-Betty-Kombiinterface")
-- ScartProg [Forum](http://bettyhacks.com/forum/index.php?topic=176.15)
+- ScartProg [Forum](../forum/topics/0176-flashen-des-scart-adapters-und-einen-guten-rutsch-ins-jahr-2.md)
 - NXPs Adapter (<http://ics.nxp.com/support/development.hardware/fdi.usb-icp-80c51isp/~P89C664/>)
 
 ### Mit Betty
@@ -64,7 +64,7 @@ Der Mikrocontroller verfügt über einen Bootloader, mit dem über die ICP/ISP S
 
 Verbindungen zwischen betty SCART adapter
 
-Die Firmware des SCART-Adapters lässt sich mit der Betty ohne zusätzliche Hardware (außer einem entsprechenden Kabel) flashen. Die dazu nötigen Routinen sind in Boop bereits integriert, die zu flashende Firmware muß allerdings in Boop mit hinein-compiliert werden. [\[1\]](http://bettyhacks.com/forum/index.php?topic=148.0%7CForum)
+Die Firmware des SCART-Adapters lässt sich mit der Betty ohne zusätzliche Hardware (außer einem entsprechenden Kabel) flashen. Die dazu nötigen Routinen sind in Boop bereits integriert, die zu flashende Firmware muß allerdings in Boop mit hinein-compiliert werden. [\[1\]](../forum/topics/0148-scart-programmieren-ohne-kombi-interface.md)
 
 1.  betty_scart.bin in ein Werte-Array in C-Quellcode umwandeln
     1.  Windows: <http://www.ulrichradig.de/home/index.php/projekte/winbin>

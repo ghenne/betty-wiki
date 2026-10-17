@@ -30,6 +30,20 @@ Für den [Mikrocontroller](SCART%20Adapter%20Hardware.md "SCART Adapter Hardware
 
 [SCART Adapter Hardware](SCART%20Adapter%20Hardware.md "SCART Adapter Hardware")
 
+<!-- forum-links:start -->
+## Forumsdiskussionen: Programmierung und Terminalmodus
+
+Der SCART-Adapter lässt sich auch ohne Kombi-Interface programmieren; zusätzlich ist ein Terminalmodus mit seriellen Einstellungen dokumentiert.
+
+### SCART programmieren ohne Kombi-Interface
+
+- [Scart programmieren, ohne Kombi-Interface!!](../forum/topics/0148-scart-programmieren-ohne-kombi-interface.md) — SCART-Adapter ohne Kombi-Interface programmieren; ICP-Routinen auf andere Mikrocontroller portiert.
+
+### SCART-Terminalmode
+
+- [Scart - Terminalmode](../forum/topics/0226-scart-terminalmode.md) — Terminalmodus des SCART-Adapters mit seriellen Einstellungen (38400,n,8,1).
+<!-- forum-links:end -->
+
 ---
 
 [Startseite](Main%20Page.md) · [Index](../index.md) · [Kategorien](../categories.md)
