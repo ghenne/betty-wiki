@@ -12,7 +12,7 @@
 160 x 128 Pixel (aktive Fläche ca. 38 mm ∙ 30 mm)<br />
 4 Graustufen LCD<br />
 Controller: SSD1854<br />
-<a href="http://bettyhacks.com/forum/index.php?topic=51.msg314#msg314">Forum</a> <a href="http://www.solomon-systech.com/news/press300301.htm">Press-Release</a> <a href="http://pdf1.alldatasheet.net/datasheet-pdf/view/103925/ETC/SSD1854.html">Datenblatt</a> <a href="http://web.archive.org/web/20050311074435/http://www.solomon-systech.com/products/ssd1854.htm">Datenblatt</a><br />
+<a href="http://bettyhacks.com/forum/index.php?topic=51.msg314#msg314">Forum</a> <a href="http://www.solomon-systech.com/news/press300301.htm">Press-Release</a> <a href="http://pdf1.alldatasheet.net/datasheet-pdf/view/103925/ETC/SSD1854.html">Datenblatt</a> <a href="http://www.solomon-systech.com/products/ssd1854.htm">Datenblatt</a><br />
 20 pins, flex connector probably glued with anisotropic adhesive - can be pulled off gently while leaving wires on flex intact.<br />
 Foto <a href="http://bettyhacks.com/wiki/index.php/Image:Betty-tv_lcd1.jpg">1</a> <a href="http://bettyhacks.com/wiki/index.php/Image:Betty-tv_lcd2.jpg">2</a><br />
 </p>

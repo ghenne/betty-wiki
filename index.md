@@ -1,6 +1,6 @@
 # Betty-Wiki – Seitenindex
 
-## Seiten (76)
+## Seiten (77)
 
 - [AAT1265 - Step-up DC/DC converter](pages/AAT1265%20-%20Step-up%20DC_DC%20converter.md)
 - [AAT3242 - dual low dropout regulator](pages/AAT3242%20-%20dual%20low%20dropout%20regulator.md)
@@ -11,6 +11,7 @@
 - [Betty Buttons](pages/Betty%20Buttons.md)
 - [Betty Hardware](pages/Betty%20Hardware.md)
 - [Betty TAE](pages/Betty%20TAE.md)
+- [Betty TV](pages/Betty%20TV.md)
 - [Betty init](pages/Betty%20init.md)
 - [Betty scart](pages/Betty%20scart.md)
 - [Betty-Hardware](pages/Betty-Hardware.md)
